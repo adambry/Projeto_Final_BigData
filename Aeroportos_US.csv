@@ -1,0 +1,1881 @@
+﻿id;type;name;iso_country;iso_region;municipality;iata_code
+6924;small_airport;Ocean Reef Club Airport;US;FL;Key Largo;OCA
+7063;small_airport;Pilot Station Airport;US;AK;Pilot Station;PQS
+7139;small_airport;Crested Butte Airpark;US;CO;Crested Butte;CSE
+7545;small_airport;LBJ Ranch Airport;US;TX;Stonewall;JCY
+7977;small_airport;Nunapitchuk Airport;US;AK;Nunapitchuk;NUP
+8126;small_airport;Icy Bay Airport;US;AK;Icy Bay;ICY
+8383;small_airport;Kalakaket Creek AS Airport;US;AK;Kalakaket Creek;KKK
+8566;small_airport;Dunsmuir Muni-Mott Airport;US;CA;Dunsmuir;MHS
+8753;small_airport;Chase Field Industrial Airport;US;TX;Beeville;NIR
+8774;small_airport;Grand Canyon Bar Ten Airstrip;US;AZ;Littlefield;GCT
+9287;small_airport;Lime Village Airport;US;AK;Lime Village;LVD
+9294;small_airport;Hog River Airport;US;AK;Hogatza;HGZ
+20770;small_airport;Ed-Air Airport;US;IN;Oaktown;OTN
+9485;small_airport;Telida Airport;US;AK;Telida;TLF
+9776;small_airport;Eagle Air Park;US;TX;Brazoria;BZT
+10309;small_airport;Blakely Island Airport;US;WA;Blakely Island;BYW
+10366;small_airport;Drift River Airport;US;AK;Kenai;DRF
+10532;small_airport;Rinkenberger Restricted Landing Area;US;IL;Bradford;BDF
+10784;small_airport;Tetlin Airport;US;AK;Tetlin;TEH
+10856;small_airport;Roy Otten Memorial Airfield;US;MO;Versailles;VRS
+11318;small_airport;Atmautluak Airport;US;AK;Atmautluak;ATT
+11320;small_airport;Livengood Camp Airport;US;AK;Livengood;LIV
+11485;small_airport;Pedro Bay Airport;US;AK;Pedro Bay;PDB
+11487;small_airport;Ouzinkie Airport;US;AK;Ouzinkie;KOZ
+11488;small_airport;Tununak Airport;US;AK;Tununak;TNK
+11900;small_airport;Minto Al Wright Airport;US;AK;Minto;MNT
+12243;medium_airport;Aleknagik / New Airport;US;AK;Aleknagik;WKK
+12560;small_airport;Naknek Airport;US;AK;Naknek;NNK
+12995;small_airport;Southern Seaplane Airport;US;LA;Belle Chasse;BCS
+13202;small_airport;Minute Man Air Field;US;MA;Stow;MMN
+13485;small_airport;Earl Henry Airport;US;OK;Blackwell;BWL
+13997;small_airport;Center Island Airport;US;WA;Center Island;CWS
+14173;small_airport;Tatitlek Airport;US;AK;Tatitlek;TEK
+14270;small_airport;Pine Island Airport;US;NC;Corolla;DUF
+14453;small_airport;Stuart Island Airpark;US;WA;Friday Harbor;SSW
+14559;small_airport;Fort Bragg Airport;US;CA;Fort Bragg;FOB
+19113;small_airport;Maxson Airfield;US;NY;Alexandria Bay;AXB
+15267;small_airport;Reese Airpark;US;TX;Lubbock;REE
+15300;small_airport;Waldron Airstrip;US;WA;Eastsound;WDN
+15640;small_airport;Chuathbaluk Airport;US;AK;Chuathbaluk;CHU
+15641;small_airport;Ugashik Airport;US;AK;Ugashik;UGS
+16069;small_airport;Levelock Airport;US;AK;Levelock;KLL
+16082;small_airport;Tuntutuliak Airport;US;AK;Tuntutuliak;WTL
+16083;small_airport;Twin Hills Airport;US;AK;Twin Hills;TWA
+16089;small_airport;Chignik Lake Airport;US;AK;Chignik Lake;KCQ
+16108;small_airport;Chena Hot Springs Airport;US;AK;Chena Hot Springs;CEX
+16120;small_airport;Solomon State Field;US;AK;Solomon;SOL
+16125;small_airport;Herendeen Bay Airport;US;AK;Herendeen Bay;HED
+16141;small_airport;Taylor Airport;US;AK;Taylor;TWE
+16165;small_airport;Point Lonely Short Range Radar Site Airfield;US;AK;Point Lonely;LNI
+16169;small_airport;Candle 2 Airport;US;AK;Candle;CDL
+16188;small_airport;Boswell Bay Airport;US;AK;Boswell Bay;BSW
+16294;small_airport;Girdwood-Alyeska Airport;US;AK;Girdwood;AQY
+16495;small_airport;Willmar Municipal Airport John L Rice Field (2006);US;MN;Willmar;ILL
+16504;small_airport;Brookings Airport;US;OR;Brookings;BOK
+16506;small_airport;Boundary Airport;US;AK;Boundary;BYA
+20291;small_airport;Paradise Skypark Airport;US;CA;Paradise;PYS
+16713;small_airport;Circle Hot Springs Airport;US;AK;Circle Hot Springs;CHP
+16716;small_airport;Crooked Creek Airport;US;AK;Crooked Creek;CKD
+312535;small_airport;Crane Island Airstrip;US;WA;Crane Island;CKR
+16717;small_airport;Cordova Municipal Airport;US;AK;Cordova;CKU
+16718;small_airport;Chicken Airport;US;AK;Chicken;CKX
+17054;small_airport;Hollister Municipal Airport;US;CA;Hollister;HLI
+17055;small_airport;Chitina Airport;US;AK;Chitina;CXC
+17059;small_airport;Cascade Locks State Airport;US;OR;Cascade Locks;CZK
+17060;small_airport;Chisana Airport;US;AK;Chisana;CZN
+17061;small_airport;Chistochina Airport;US;AK;Chistochina;CZO
+19598;small_airport;Canandaigua Airport;US;NY;Ontario County IDA;IUA
+17080;small_airport;Delta Junction Airport;US;AK;Delta Junction;DJN
+17113;small_airport;Dahl Creek Airport;US;AK;Dahl Creek;DCK
+17188;small_airport;Ranger Municipal Airport;US;TX;Ranger;RGR
+17467;small_airport;Flat Airport;US;AK;Flat;FLT
+17573;small_airport;Gabbs Airport;US;NV;Gabbs;GAB
+17594;small_airport;Pope Field;US;IN;Greenfield;GFD
+17597;small_airport;Goodnews Airport;US;AK;Goodnews;GNU
+17599;small_airport;Granite Mountain Air Station;US;AK;Granite Mountain;GMT
+17600;small_airport;Gordonsville Municipal Airport;US;VA;Gordonsville;GVE
+17618;small_airport;Haycock Airport;US;AK;Haycock;HAY
+17623;small_airport;Princeville Airport;US;HI;Hanalei;HPV
+313211;small_airport;Healy Lake Airport;US;AK;Healy Lake;HKB
+18253;small_airport;Quartz Creek Airport;US;AK;Cooper Landing;JLA
+18302;small_airport;Animas Air Park;US;CO;Durango;AMK
+18303;small_airport;Broadus Airport;US;MT;Broadus;BDX
+18321;small_airport;Eureka Airport;US;NV;Eureka;EUE
+18326;small_airport;Jackpot Airport/Hayden Field;US;NV;Jackpot;KPT
+20238;small_airport;Rolla Downtown Airport;US;MO;Rolla;RLA
+18351;small_airport;Elizabeth Field;US;NY;Fishers Island;FID
+18371;small_airport;Humboldt Municipal Airport;US;IA;Humboldt;HUD
+18393;small_airport;Jefferson County International Airport;US;WA;Port Townsend;TWD
+18397;small_airport;Kayenta Airport;US;AZ;Kayenta;MVM
+18451;small_airport;Columbia County Airport;US;NY;Hudson;HCC
+18462;small_airport;Ardmore Downtown Executive Airport;US;OK;Ardmore;AHD
+18468;small_airport;Grand Canyon West Airport;US;AZ;Peach Springs;GCW
+18501;small_airport;Lampson Field;US;CA;Lakeport;CKE
+18504;small_airport;Montague-Yreka Rohrer Field;US;CA;Montague;ROF
+18522;small_airport;Fremont County Airport;US;CO;Penrose;CNE
+18540;small_airport;Cooperstown-Westville Airport;US;NY;Cooperstown;COP
+18561;small_airport;Council Airport;US;AK;Council;CIL
+18578;small_airport;Iraan Municipal Airport;US;TX;Iraan;IRB
+18607;small_airport;Gansner Field;US;CA;Quincy;GNF
+18623;small_airport;Chiloquin State Airport;US;OR;Chiloquin;CHZ
+18632;small_airport;St. Mary's County Regional Airport;US;MD;California;LTW
+18661;small_airport;Arapahoe Municipal Airport;US;NE;Arapahoe;AHF
+18666;small_airport;Princeton Airport;US;NJ;Princeton/Rocky Hill;PCT
+18678;small_airport;Calverton Executive Airpark;US;NY;Calverton;CTO
+18728;small_airport;Grand Lake Regional Airport;US;OK;Afton;NRI
+18737;small_airport;Grants Pass Airport;US;OR;Grants Pass;GTP
+18742;small_airport;Jerry Tyler Memorial Airport;US;MI;Niles;NLE
+18750;small_airport;Grand Coulee Dam Airport;US;WA;Electric City;GCD
+18756;small_airport;Valle Airport;US;AZ;Grand Canyon;VLE
+18757;small_airport;Perry-Foley Airport;US;FL;Perry;FPY
+18763;small_airport;Manti-Ephraim Airport;US;UT;Manti;NTJ
+18779;small_airport;Salina Gunnison Airport;US;UT;Salina;SBO
+18788;small_airport;Central Jersey Regional Airport;US;NJ;Manville;JVI
+18847;small_airport;Eunice Airport;US;LA;Eunice;UCE
+18849;small_airport;Gold Beach Municipal Airport;US;OR;Gold Beach;GOL
+18866;small_airport;Kentland Municipal Airport;US;IN;Kentland;KKT
+18917;small_airport;Prentice Airport;US;WI;Prentice;PRW
+18930;small_airport;Maverick County Memorial International Airport;US;TX;Eagle Pass;EGP
+18945;medium_airport;Boulder City Municipal Airport;US;NV;Boulder City;BLD
+18966;medium_airport;Mesquite International Airport;US;NV;Mesquite;MFH
+18982;small_airport;Iosco County Airport;US;MI;East Tawas;ECA
+19010;small_airport;Florence Municipal Airport;US;OR;Florence;FMU
+19030;small_airport;Anacortes Airport;US;WA;Anacortes;OTS
+19031;small_airport;Roosevelt Municipal Airport;US;UT;Roosevelt;ROL
+19060;small_airport;Canton Municipal Airport;US;SD;Canton;CTK
+19083;small_airport;North Fork Valley Airport;US;CO;Paonia;WPO
+19094;small_airport;Antlers Municipal Airport;US;OK;Antlers;ATE
+19204;small_airport;Austin Airport;US;NV;Austin;ASQ
+19224;small_airport;Apalachicola Regional Airport;US;FL;Apalachicola;AAF
+3356;medium_airport;Lehigh Valley International Airport;US;PA;Allentown;ABE
+3357;medium_airport;Abilene Regional Airport;US;TX;Abilene;ABI
+16091;medium_airport;Albuquerque International Sunport;US;NM;Albuquerque;ABQ
+3358;medium_airport;Aberdeen Regional Airport;US;SD;Aberdeen;ABR
+3359;medium_airport;Southwest Georgia Regional Airport;US;GA;Albany;ABY
+19228;small_airport;Antrim County Airport;US;MI;Bellaire;ACB
+3360;medium_airport;Nantucket Memorial Airport;US;MA;Nantucket;ACK
+3361;medium_airport;Waco Regional Airport;US;TX;Waco;ACT
+3362;medium_airport;California Redwood Coast-Humboldt County Airport;US;CA;Arcata/Eureka;ACV
+3363;medium_airport;Atlantic City International Airport;US;NJ;Atlantic City;ACY
+19234;small_airport;Lenawee County Airport;US;MI;Adrian;ADG
+19235;small_airport;Ada Regional Airport;US;OK;Ada;ADT
+19236;small_airport;Ardmore Municipal Airport;US;OK;Ardmore;ADM
+19237;small_airport;Addison Airport;US;TX;Dallas;ADS
+3364;large_airport;Joint Base Andrews;US;MD;Camp Springs;ADW
+19244;small_airport;Albert Lea Municipal Airport;US;MN;Albert Lea;AEL
+3365;medium_airport;Alexandria International Airport;US;LA;Alexandria;AEX
+19245;small_airport;USAF Academy Airfield;US;CO;Colorado Springs;AFF
+19246;small_airport;Washington County Airport;US;PA;Washington;WSG
+19248;small_airport;Jaffrey Airfield Silver Ranch Airport;US;NH;Jaffrey;AFN
+19249;small_airport;Afton Municipal Airport;US;WY;Afton;AFO
+3366;medium_airport;Perot Field/Fort Worth Alliance Airport;US;TX;Fort Worth;AFW
+3367;medium_airport;Allegheny County Airport;US;PA;Pittsburgh;AGC
+19251;small_airport;Magnolia Municipal Airport / Ralph C Weiser Field;US;AR;Magnolia;AGO
+3368;medium_airport;Augusta Regional At Bush Field;US;GA;Augusta;AGS
+19254;small_airport;Amedee Army Air Field;US;CA;Herlong;AHC
+19255;small_airport;Amery Municipal Airport;US;WI;Amery;AHH
+3369;medium_airport;Athens Ben Epps Airport;US;GA;Athens;AHN
+19257;small_airport;Alliance Municipal Airport;US;NE;Alliance;AIA
+19259;small_airport;Anderson Municipal Darlington Field;US;IN;Anderson;AID
+19261;small_airport;Aiken Regional Airport;US;SC;Aiken;AIK
+19262;small_airport;Atlantic Municipal Airport;US;IA;Atlantic;AIO
+19264;small_airport;George Downer Airport;US;AL;Aliceville;AIV
+19266;small_airport;Lee C Fine Memorial Airport;US;MO;Kaiser Lake Ozark;AIZ
+19272;small_airport;Colorado Plains Regional Airport;US;CO;Akron;AKO
+3370;medium_airport;Akron Executive Airport;US;OH;Akron;AKC
+3371;medium_airport;Albany International Airport;US;NY;Albany;ALB
+3372;medium_airport;Alice International Airport;US;TX;Alice;ALI
+3373;medium_airport;Alamogordo White Sands Regional Airport;US;NM;Alamogordo;ALM
+3374;medium_airport;St Louis Regional Airport;US;IL;Alton/St Louis;ALN
+3375;medium_airport;Waterloo Regional Airport;US;IA;Waterloo;ALO
+19275;medium_airport;San Luis Valley Regional Airport/Bergman Field;US;CO;Alamosa;ALS
+3376;medium_airport;Walla Walla Regional Airport;US;WA;Walla Walla;ALW
+19276;small_airport;Thomas C Russell Field;US;AL;Alexander City;ALX
+3377;medium_airport;Rick Husband Amarillo International Airport;US;TX;Amarillo;AMA
+19278;small_airport;Gratiot Community Airport;US;MI;Alma;AMN
+19280;small_airport;Ames Municipal Airport;US;IA;Ames;AMW
+3378;medium_airport;Anniston Regional Airport;US;AL;Anniston;ANB
+3379;medium_airport;Anderson Regional Airport;US;SC;Anderson;AND
+19283;small_airport;Salida Airport - Harriet Alexander Field;US;CO;Salida;SLT
+19284;small_airport;Lee Airport;US;MD;Annapolis;ANP
+19285;small_airport;Tri State Steuben County Airport;US;IN;Angola;ANQ
+19286;small_airport;Ainsworth Regional Airport;US;NE;Ainsworth;ANW
+19287;small_airport;Anthony Municipal Airport;US;KS;Anthony;ANY
+19289;small_airport;Lima Allen County Airport;US;OH;Lima;AOH
+3380;medium_airport;Altoona Blair County Airport;US;PA;Altoona;AOO
+19291;medium_airport;Centennial Airport;US;CO;Denver;APA
+19292;small_airport;Napa County Airport;US;CA;Napa;APC
+19293;medium_airport;Naples Municipal Airport;US;FL;Naples;APF
+3381;medium_airport;Phillips Army Air Field;US;MD;Aberdeen;APG
+19294;small_airport;Mary Walker LZ Airport;US;VA;Bowling Green;APH
+3382;medium_airport;Alpena County Regional Airport;US;MI;Alpena;APN
+19295;small_airport;Marion County Airport - Brown Field;US;TN;Jasper;APT
+19296;small_airport;Apple Valley Airport;US;CA;Apple Valley;APV
+19301;medium_airport;Acadiana Regional Airport;US;LA;New Iberia;ARA
+19302;small_airport;Ann Arbor Municipal Airport;US;MI;Ann Arbor;ARB
+19303;small_airport;Walnut Ridge Regional Airport;US;AR;Walnut Ridge;ARG
+19304;small_airport;Wharton Regional Airport;US;TX;Wharton;WHT
+19305;small_airport;Aurora Municipal Airport;US;IL;Chicago/Aurora;AUZ
+3383;medium_airport;Watertown International Airport;US;NY;Watertown;ART
+19306;small_airport;Lakeland-Noble F. Lee Memorial field;US;WI;Minocqua-Woodruff;ARV
+19028;small_airport;Beaufort Executive Airport;US;SC;Beaufort;BFT
+19308;medium_airport;Aspen-Pitkin County Airport (Sardy Field);US;CO;Aspen;ASE
+19309;small_airport;Springdale Municipal Airport;US;AR;Springdale;SPZ
+19310;small_airport;Nashua Airport / Boire Field;US;NH;Nashua;ASH
+19312;small_airport;Harrison County Airport;US;TX;Marshall;ASL
+19313;small_airport;Talladega Municipal Airport;US;AL;Talladega;ASN
+19314;medium_airport;Astoria Regional Airport;US;OR;Astoria;AST
+19316;small_airport;John F Kennedy Memorial Airport;US;WI;Ashland;ASX
+19317;small_airport;Ashley Municipal Airport;US;ND;Ashley;ASY
+3384;large_airport;Hartsfield Jackson Atlanta International Airport;US;GA;Atlanta;ATL
+19319;small_airport;Artesia Municipal Airport;US;NM;Artesia;ATS
+19320;small_airport;Appleton International Airport;US;WI;Appleton;ATW
+3385;medium_airport;Watertown Regional Airport;US;SD;Watertown;ATY
+19321;medium_airport;Augusta State Airport;US;ME;Augusta;AUG
+19323;small_airport;Austin Municipal Airport;US;MN;Austin;AUM
+19324;small_airport;Auburn Municipal Airport;US;CA;Auburn;AUN
+19325;small_airport;Auburn University Regional Airport;US;AL;Auburn;AUO
+3386;large_airport;Austin Bergstrom International Airport;US;TX;Austin;AUS
+19326;medium_airport;Wausau Downtown Airport;US;WI;Wausau;AUW
+3387;medium_airport;Asheville Regional Airport;US;NC;Asheville;AVL
+19329;small_airport;Avon Park Executive Airport;US;FL;Avon Park;AVO
+3388;medium_airport;Wilkes Barre Scranton International Airport;US;PA;Wilkes-Barre/Scranton;AVP
+19330;small_airport;Marana Regional Airport;US;AZ;Marana;AVW
+19331;small_airport;Catalina Airport;US;CA;Avalon;AVX
+19333;small_airport;West Memphis Municipal Airport;US;AR;West Memphis;AWM
+19335;small_airport;Algona Municipal Airport;US;IA;Algona;AXG
+3389;medium_airport;Chandler Field;US;MN;Alexandria;AXN
+19338;small_airport;Altus Quartz Mountain Regional Airport;US;OK;Altus;AXS
+19339;small_airport;Neil Armstrong Airport;US;OH;Wapakoneta;AXV
+19340;small_airport;Angel Fire Airport;US;NM;Angel Fire;AXX
+19341;small_airport;Waycross Ware County Airport;US;GA;Waycross;AYS
+19342;small_airport;Arnold Air Force Base;US;TN;Tullahoma;TUH
+3390;medium_airport;Kalamazoo Battle Creek International Airport;US;MI;Kalamazoo;AZO
+3391;medium_airport;Beale Air Force Base;US;CA;Marysville;BAB
+3392;medium_airport;Barksdale Air Force Base;US;LA;Bossier City;BAD
+3393;medium_airport;Westfield-Barnes Regional Airport;US;MA;Westfield;BAF
+3394;medium_airport;Columbus Municipal Airport;US;IN;Columbus;CLU
+19349;small_airport;Battle Mountain Airport;US;NV;Battle Mountain;BAM
+19352;small_airport;Benson Municipal Airport;US;MN;Benson;BBB
+19353;medium_airport;Curtis Field;US;TX;Brady;BBD
+45961;small_airport;Branson Airport;US;MO;Branson;BKG
+19354;small_airport;Marlboro County Jetport - H E Avent Field Airport;US;SC;Bennettsville;BTN
+19355;small_airport;Broken Bow Municipal Airport;US;NE;Broken Bow;BBW
+19356;small_airport;Virginia Tech Montgomery Executive Airport;US;VA;Blacksburg;BCB
+19357;medium_airport;Bryce Canyon Airport;US;UT;Bryce Canyon;BCE
+19359;small_airport;Boca Raton Airport;US;FL;Boca Raton;BCT
+3395;medium_airport;Baudette International Airport;US;MN;Baudette;BDE
+19360;small_airport;Blanding Municipal Airport;US;UT;Blanding;BDG
+3396;medium_airport;Bradley International Airport;US;CT;Hartford;BDL
+3397;medium_airport;Igor I Sikorsky Memorial Airport;US;CT;Bridgeport;BDR
+16498;small_airport;Boulder Municipal Airport;US;CO;Boulder;WBU
+19363;small_airport;Beech Factory Airport;US;KS;Wichita;BEC
+3398;medium_airport;Laurence G Hanscom Field;US;MA;Bedford;BED
+19364;small_airport;Southwest Michigan Regional Airport;US;MI;Benton Harbor;BEH
+3399;medium_airport;Bradford Regional Airport;US;PA;Bradford;BFD
+3400;medium_airport;Western Neb. Rgnl/William B. Heilig Airport;US;NE;Scottsbluff;BFF
+3401;medium_airport;Boeing Field King County International Airport;US;WA;Seattle;BFI
+3402;medium_airport;Meadows Field;US;CA;Bakersfield;BFL
+3403;medium_airport;Mobile Downtown Airport;US;AL;Mobile;BFM
+19368;small_airport;Virgil I Grissom Municipal Airport;US;IN;Bedford;BFR
+19370;small_airport;Hutchinson County Airport;US;TX;Borger;BGD
+19371;small_airport;Decatur County Industrial Air Park;US;GA;Bainbridge;BGE
+3404;medium_airport;Greater Binghamton/Edwin A Link field;US;NY;Binghamton;BGM
+3405;medium_airport;Bangor International Airport;US;ME;Bangor;BGR
+19373;medium_airport;Hancock County-Bar Harbor Airport;US;ME;Bar Harbor;BHB
+3406;medium_airport;Birmingham-Shuttlesworth International Airport;US;AL;Birmingham;BHM
+16500;small_airport;Block Island State Airport;US;RI;Block Island;BID
+19376;small_airport;Beatrice Municipal Airport;US;NE;Beatrice;BIE
+3407;medium_airport;Biggs Army Air Field (Fort Bliss);US;TX;Fort Bliss/El Paso;BIF
+19377;medium_airport;Eastern Sierra Regional Airport;US;CA;Bishop;BIH
+3408;medium_airport;Billings Logan International Airport;US;MT;Billings;BIL
+3409;medium_airport;Bismarck Municipal Airport;US;ND;Bismarck;BIS
+3410;medium_airport;Keesler Air Force Base;US;MS;Biloxi;BIX
+3411;medium_airport;Rocky Mountain Metropolitan Airport;US;CO;Denver;BJC
+19380;medium_airport;Bemidji Regional Airport;US;MN;Bemidji;BJI
+19381;small_airport;Wayne County Airport;US;OH;Wooster;BJJ
+19382;small_airport;Stephens County Airport;US;TX;Breckenridge;BKD
+3412;medium_airport;Baker City Municipal Airport;US;OR;Baker City;BKE
+3413;medium_airport;Buckley Space Force Base;US;CO;Aurora;BFK
+3414;medium_airport;Burke Lakefront Airport;US;OH;Cleveland;BKL
+19384;small_airport;Allen C Perkinson Blackstone Army Air Field;US;VA;Blackstone;BKT
+3415;medium_airport;Raleigh County Memorial Airport;US;WV;Beckley;BKW
+19386;small_airport;Brookings Regional Airport;US;SD;Brookings;BKX
+19387;medium_airport;Mercer County Airport;US;WV;Bluefield;BLF
+19388;medium_airport;Blythe Airport;US;CA;Blythe;BLH
+3416;medium_airport;Bellingham International Airport;US;WA;Bellingham;BLI
+19389;small_airport;Monmouth Executive Airport;US;NJ;Belmar/Farmingdale;BLM
+19390;small_airport;Blue Canyon Nyack Airport;US;CA;Emigrant Gap;BLU
+3417;medium_airport;Scott AFB/Midamerica Airport;US;IL;Belleville;BLV
+19391;small_airport;Brigham City Regional Airport;US;UT;Brigham City;BMC
+3418;medium_airport;Monroe County Airport;US;IN;Bloomington;BMG
+3419;medium_airport;Central Illinois Regional Airport at Bloomington-Normal;US;IL;Bloomington/Normal;BMI
+19392;small_airport;Berlin Regional Airport;US;NH;Berlin;BML
+19394;small_airport;Beaumont Municipal Airport;US;TX;Beaumont;BMT
+3420;large_airport;Nashville International Airport;US;TN;Nashville;BNA
+19395;small_airport;Banning Municipal Airport;US;CA;Banning;BNG
+19396;small_airport;Barnwell Regional Airport;US;SC;Barnwell;BNL
+19397;medium_airport;Burns Municipal Airport;US;OR;Burns;BNO
+19398;small_airport;Boone Municipal Airport;US;IA;Boone;BNW
+3421;medium_airport;Boise Air Terminal/Gowen Field;US;ID;Boise;BOI
+3422;large_airport;Logan International Airport;US;MA;Boston;BOS
+19399;small_airport;Bartow Executive Airport;US;FL;Bartow;BOW
+19400;small_airport;Big Spring Mc Mahon-Wrinkle Airport;US;TX;Big Spring;HCA
+19401;medium_airport;Miley Memorial Field;US;WY;Big Piney;BPI
+19402;medium_airport;Ozark Regional Airport;US;AR;Mountain Home;WMH
+3423;medium_airport;Jack Brooks Regional Airport;US;TX;Beaumont/Port Arthur;BPT
+3424;medium_airport;Brunswick Golden Isles Airport;US;GA;Brunswick;BQK
+19406;medium_airport;Brainerd Lakes Regional Airport;US;MN;Brainerd;BRD
+3425;medium_airport;Southeast Iowa Regional Airport;US;IA;Burlington;BRL
+3426;medium_airport;Brownsville South Padre Island International Airport;US;TX;Brownsville;BRO
+19407;small_airport;Samuels Field;US;KY;Bardstown;BRY
+19409;small_airport;Skypark Airport;US;UT;Bountiful;BTF
+3427;medium_airport;Battle Creek Executive Airport at Kellogg Field;US;MI;Battle Creek;BTL
+3428;medium_airport;Bert Mooney Airport;US;MT;Butte;BTM
+19410;small_airport;Britton Municipal Airport;US;SD;Britton;TTO
+19411;small_airport;Pittsburgh/Butler Regional Airport;US;PA;Butler;BTP
+3429;medium_airport;Baton Rouge Metropolitan Airport;US;LA;Baton Rouge;BTR
+3430;medium_airport;Burlington International Airport;US;VT;South Burlington;BTV
+19412;small_airport;Beatty Airport;US;NV;Beatty;BTY
+19413;small_airport;Cram Field;US;NE;Burwell;BUB
+3431;large_airport;Buffalo Niagara International Airport;US;NY;Buffalo;BUF
+19414;small_airport;Butler Memorial Airport;US;MO;Butler;BUM
+3432;medium_airport;Bob Hope Airport;US;CA;Burbank;BUR
+19417;medium_airport;Beaver County Airport;US;PA;Beaver Falls;BFP
+19419;small_airport;Bartlesville Municipal Airport;US;OK;Bartlesville;BVO
+19420;small_airport;Skagit Regional Airport;US;WA;Burlington;MVW
+19421;small_airport;Batesville Regional Airport;US;AR;Batesville;BVX
+3433;medium_airport;Beverly Regional Airport;US;MA;Beverly / Danvers;BVY
+19422;small_airport;Brawley Municipal Airport;US;CA;Brawley;BWC
+19423;small_airport;Brownwood Regional Airport;US;TX;Brownwood;BWD
+3434;medium_airport;Bowling Green Warren County Regional Airport;US;KY;Bowling Green;BWG
+3435;large_airport;Baltimore/Washington International Thurgood Marshall Airport;US;MD;Baltimore;BWI
+19424;small_airport;Harry Stern Airport;US;ND;Wahpeton;WAH
+322146;small_airport;Bowman Regional Airport;US;ND;Bowman;BWM
+19425;small_airport;George R Carr Memorial Air Field;US;LA;Bogalusa;BXA
+19427;small_airport;Buckeye Municipal Airport;US;AZ;Buckeye;BXK
+19428;small_airport;Johnson County Airport;US;WY;Buffalo;BYG
+3436;medium_airport;Arkansas International Airport;US;AR;Blytheville;BYH
+19429;medium_airport;Burley Municipal Airport;US;ID;Burley;BYI
+19430;medium_airport;Bicycle Lake Army Air Field;US;CA;Fort Irwin/Barstow;BYS
+19431;small_airport;Bay City Regional Airport;US;TX;Bay City;BBC
+3437;medium_airport;Gallatin Field;US;MT;Bozeman;BZN
+19432;small_airport;Grand Geneva Resort Airport;US;WI;Lake Geneva;XES
+19448;small_airport;Plymouth Municipal Airport;US;IN;Plymouth;PLY
+19454;small_airport;New Coalinga Municipal Airport;US;CA;Coalinga;CLG
+19458;small_airport;Wexford County Airport;US;MI;Cadillac;CAD
+3438;medium_airport;Columbia Metropolitan Airport;US;SC;Columbia;CAE
+19459;small_airport;Craig Moffat Airport;US;CO;Craig;CIG
+3439;medium_airport;Akron Canton Regional Airport;US;OH;Akron;CAK
+19460;small_airport;Clayton Municipal Airpark;US;NM;Clayton;CAO
+3440;medium_airport;Caribou Municipal Airport;US;ME;Caribou;CAR
+19462;small_airport;Greater Cumberland Regional Airport;US;WV;Wiley Ford;CBE
+19463;small_airport;Council Bluffs Municipal Airport;US;IA;Council Bluffs;CBF
+19465;small_airport;Shalz Field;US;KS;Colby;CBK
+3441;medium_airport;Columbus Air Force Base;US;MS;Columbus;CBM
+19467;small_airport;Cable Airport;US;CA;Upland;CCB
+19469;small_airport;Buchanan Field;US;CA;Concord;CCR
+19470;medium_airport;Northeast Iowa Regional Airport;US;IA;Charles City;CCY
+18977;small_airport;Caledonia County Airport;US;VT;Lyndonville;LLX
+3442;medium_airport;Cedar City Regional Airport;US;UT;Cedar City;CDC
+19471;small_airport;Harrell Field;US;AR;Camden;CDH
+19473;small_airport;Woodward Field;US;SC;Camden;CDN
+19474;medium_airport;Chadron Municipal Airport;US;NE;Chadron;CDR
+19475;medium_airport;Childress Municipal Airport;US;TX;Childress;CDS
+19476;small_airport;Essex County Airport;US;NJ;Caldwell;CDW
+19477;small_airport;Cessna Aircraft Field;US;KS;Wichita;CEA
+3443;medium_airport;Jack Mc Namara Field Airport;US;CA;Crescent City;CEC
+3444;medium_airport;Westover Metropolitan Airport / Westover Air Reserve Base;US;MA;Chicopee;CEF
+19479;small_airport;Oconee County Regional Airport;US;SC;Clemson;CEU
+19480;small_airport;Mettel Field;US;IN;Connersville;CEV
+3445;medium_airport;Bob Sikes Airport;US;FL;Crestview;CEW
+19481;small_airport;Kyle Oakley Field;US;KY;Murray;CEY
+19482;small_airport;Cortez Municipal Airport;US;CO;Cortez;CEZ
+19483;small_airport;Coulter Field;US;TX;Bryan;CFD
+19485;small_airport;Tuscola Area Airport;US;MI;Caro;TZC
+19486;small_airport;Greenlee County Airport;US;AZ;Clifton;CFT
+19487;small_airport;Coffeyville Municipal Airport;US;KS;Coffeyville;CFV
+19489;small_airport;Cambridge Dorchester Airport;US;MD;Cambridge;CGE
+3446;medium_airport;Cuyahoga County Airport;US;OH;Cleveland;CGF
+3447;medium_airport;Cape Girardeau Regional Airport;US;MO;Cape Girardeau;CGI
+19490;small_airport;College Park Airport;US;MD;College Park;CGS
+19491;small_airport;Casa Grande Municipal Airport;US;AZ;Casa Grande;CGZ
+3448;medium_airport;Chattanooga Metropolitan Airport (Lovell Field);US;TN;Chattanooga;CHA
+19493;small_airport;Chickasha Municipal Airport;US;OK;Chickasha;CHK
+3449;medium_airport;Charlottesville Albemarle Airport;US;VA;Charlottesville;CHO
+3450;medium_airport;Charleston International Airport;US;SC;Charleston;CHS
+19498;small_airport;Chico Municipal Airport;US;CA;Chico;CIC
+3451;medium_airport;The Eastern Iowa Airport;US;IA;Cedar Rapids;CID
+19500;small_airport;Arthur N Neu Airport;US;IA;Carroll;CIN
+19501;small_airport;Cairo Regional Airport;US;IL;Cairo;CIR
+3452;medium_airport;Chippewa County International Airport;US;MI;Sault Ste Marie;CIU
+19503;small_airport;Kegelman AF Aux Field;US;OK;Cherokee;CKA
+3453;medium_airport;North Central West Virginia Airport;US;WV;Bridgeport;CKB
+19504;small_airport;Grand Marais Cook County Airport;US;MN;Grand Marais;GRM
+19507;small_airport;Fletcher Field;US;MS;Clarksdale;CKM
+19508;small_airport;Crookston Municipal Kirkwood Field;US;MN;Crookston;CKN
+19510;small_airport;Clarksville–Montgomery County Regional Airport;US;TN;Clarksville;CKV
+19511;small_airport;Chignik Lagoon Airport;US;AK;Chignik Flats;KCL
+3454;large_airport;Cleveland Hopkins International Airport;US;OH;Cleveland;CLE
+19512;small_airport;Clintonville Municipal Airport;US;WI;Clintonville;CLI
+19513;small_airport;Clinton Regional Airport;US;OK;Clinton;CLK
+3455;medium_airport;Easterwood Field;US;TX;College Station;CLL
+3456;medium_airport;William R Fairchild International Airport;US;WA;Port Angeles;CLM
+19514;small_airport;Cliff Hatfield Memorial Airport;US;CA;Calipatria;CLR
+19515;small_airport;Chehalis Centralia Airport;US;WA;Chehalis;CLS
+3457;large_airport;Charlotte Douglas International Airport;US;NC;Charlotte;CLT
+19516;small_airport;Clearwater Air Park;US;FL;Clearwater;CLW
+3458;large_airport;John Glenn Columbus International Airport;US;OH;Columbus;CMH
+3459;medium_airport;University of Illinois Willard Airport;US;IL;Savoy;CMI
+3460;medium_airport;Houghton County Memorial Airport;US;MI;Hancock;CMX
+19519;small_airport;Sparta Fort McCoy Airport;US;WI;Sparta;CMY
+19523;small_airport;Claremont Municipal Airport;US;NH;Claremont;CNH
+19524;small_airport;Blosser Municipal Airport;US;KS;Concordia;CNK
+3461;medium_airport;Cavern City Air Terminal;US;NM;Carlsbad;CNM
+19525;small_airport;Chino Airport;US;CA;Chino;CNO
+19527;medium_airport;Chanute Martin Johnson Airport;US;KS;Chanute;CNU
+19528;small_airport;TSTC Waco Airport;US;TX;Waco;CNW
+19529;small_airport;Canyonlands Regional Airport;US;UT;Moab;CNY
+19530;medium_airport;Yellowstone Regional Airport;US;WY;Cody;COD
+19531;medium_airport;Coeur D'Alene - Pappy Boyington Field;US;ID;Coeur d'Alene;COE
+3462;medium_airport;Patrick Space Force Base;US;FL;Cocoa Beach;COF
+19532;small_airport;Merritt Island Airport;US;FL;Merritt Island;COI
+19533;small_airport;Coleman Municipal Airport;US;TX;Coleman;COM
+19534;medium_airport;Concord Municipal Airport;US;NH;Concord;CON
+3463;medium_airport;City of Colorado Springs Municipal Airport;US;CO;Colorado Springs;COS
+19536;small_airport;Cotulla-La Salle County Airport;US;TX;Cotulla;COT
+3464;medium_airport;Columbia Regional Airport;US;MO;Columbia;COU
+19539;small_airport;Compton Woodley Airport;US;CA;Compton;CPM
+3465;medium_airport;Casper-Natrona County International Airport;US;WY;Casper;CPR
+19540;small_airport;St Louis Downtown Airport;US;IL;Cahokia/St Louis;CPS
+19546;small_airport;Cheraw Municipal Airport/Lynch Bellinger Field;US;SC;Cheraw;HCW
+19548;small_airport;Colorado Creek Airport;US;AK;Colorado Creek;KCR
+19549;medium_airport;Grand Strand Airport;US;SC;North Myrtle Beach;CRE
+19550;medium_airport;Jacksonville Executive at Craig Airport;US;FL;Jacksonville;CRG
+19551;small_airport;Corcoran Airport;US;CA;Corcoran;CRO
+3466;medium_airport;Corpus Christi International Airport;US;TX;Corpus Christi;CRP
+19552;medium_airport;McClellan-Palomar Airport;US;CA;Carlsbad;CLD
+19553;small_airport;C David Campbell Field Corsicana Municipal Airport;US;TX;Corsicana;CRS
+19554;small_airport;Z M Jack Stell Field;US;AR;Crossett;CRT
+3467;medium_airport;Yeager Airport;US;WV;Charleston;CRW
+19555;small_airport;Roscoe Turner Airport;US;MS;Corinth;CRX
+3468;medium_airport;Columbus Metropolitan Airport;US;GA;Columbus;CSG
+19558;small_airport;Clinton Sherman Airport;US;OK;Clinton;CSM
+19559;small_airport;Creston Municipal Airport;US;IA;Creston;CSQ
+3469;medium_airport;Crossville Memorial Whitson Field;US;TN;Crossville;CSV
+3470;medium_airport;Cut Bank International Airport;US;MT;Cut Bank;CTB
+19562;small_airport;Cross City Airport;US;FL;Cross City;CTY
+19563;small_airport;Sampson County Airport;US;NC;Clinton;CTZ
+19564;medium_airport;Jim Hamilton L.B. Owens Airport;US;SC;Columbia;CUB
+19565;small_airport;Cushing Municipal Airport;US;OK;Cushing;CUH
+3471;large_airport;Cincinnati Northern Kentucky International Airport;US;KY;Cincinnati / Covington;CVG
+19568;small_airport;Sharp County Regional Airport;US;AR;Ash Flat;CKK
+19569;small_airport;Clovis Municipal Airport;US;NM;Clovis;CVN
+3472;medium_airport;Corvallis Municipal Airport;US;OR;Corvallis;CVO
+3473;medium_airport;Cannon Air Force Base;US;NM;Clovis;CVS
+19571;medium_airport;Central Wisconsin Airport;US;WI;Mosinee;CWA
+21154;small_airport;Kickapoo Downtown Airport;US;TX;Wichita Falls;KIP
+19572;small_airport;Chennault International Airport;US;LA;Lake Charles;CWF
+19573;small_airport;Clinton Municipal Airport;US;IA;Clinton;CWI
+3474;small_airport;Calexico International Airport;US;CA;Calexico;CXL
+3475;medium_airport;Conroe-North Houston Regional Airport;US;TX;Houston;CXO
+19577;small_airport;Carson Airport;US;NV;Carson City;CSN
+19579;small_airport;Capital City Airport;US;PA;Harrisburg;HAR
+3476;medium_airport;Cheyenne Regional Jerry Olson Field;US;WY;Cheyenne;CYS
+19585;small_airport;Dimmit County Airport;US;TX;Carrizo Springs;CZT
+19606;small_airport;Tioga Municipal Airport;US;ND;Tioga;VEX
+3477;medium_airport;Davison Army Air Field;US;VA;Fort Belvoir;DAA
+3478;medium_airport;Daytona Beach International Airport;US;FL;Daytona Beach;DAB
+19615;medium_airport;Barstow Daggett Airport;US;CA;Daggett;DAG
+3479;medium_airport;Dallas Love Field;US;TX;Dallas;DAL
+3480;medium_airport;Danville Regional Airport;US;VA;Danville;DAN
+3481;medium_airport;James M Cox Dayton International Airport;US;OH;Dayton;DAY
+19617;small_airport;W H 'Bud' Barron Airport;US;GA;Dublin;DBN
+3482;medium_airport;Dubuque Regional Airport;US;IA;Dubuque;DBQ
+3483;large_airport;Ronald Reagan Washington National Airport;US;DC;Washington;DCA
+19618;small_airport;Pryor Field Regional Airport;US;AL;Decatur;DCU
+3484;medium_airport;Dodge City Regional Airport;US;KS;Dodge City;DDC
+3485;medium_airport;Decatur Airport;US;IL;Decatur;DEC
+19622;small_airport;Decorah Municipal Airport;US;IA;Decorah;DEH
+3486;large_airport;Denver International Airport;US;CO;Denver;DEN
+3487;medium_airport;Coleman A. Young Municipal Airport;US;MI;Detroit;DET
+19625;small_airport;Defiance Memorial Airport;US;OH;Defiance;DFI
+3488;large_airport;Dallas Fort Worth International Airport;US;TX;Dallas-Fort Worth;DFW
+19626;small_airport;Douglas Municipal Airport;US;AZ;Douglas;DGL
+19627;small_airport;Converse County Airport;US;WY;Douglas;DGW
+3489;medium_airport;Dothan Regional Airport;US;AL;Dothan;DHN
+19628;medium_airport;Dalhart Municipal Airport;US;TX;Dalhart;DHT
+19630;medium_airport;Dickinson Theodore Roosevelt Regional Airport;US;ND;Dickinson;DIK
+19633;small_airport;Chautauqua County-Dunkirk Airport;US;NY;Dunkirk;DKK
+19636;small_airport;Dillon County Airport;US;SC;Dillon;DLL
+3490;medium_airport;Laughlin Air Force Base;US;TX;Del Rio;DLF
+3491;medium_airport;Duluth International Airport;US;MN;Duluth;DLH
+19638;small_airport;Dillon Airport;US;MT;Dillon;DLN
+19640;medium_airport;Columbia Gorge Regional Airport;US;OR;Dallesport / The Dalles;DLS
+3492;medium_airport;Davis Monthan Air Force Base;US;AZ;Tucson;DMA
+3493;medium_airport;Deming Municipal Airport;US;NM;Deming;DMN
+19642;small_airport;Sedalia Memorial Airport;US;MO;Sedalia;DMO
+19644;medium_airport;Daniel Field;US;GA;Augusta;DNL
+19645;small_airport;Dalton Municipal Airport;US;GA;Dalton;DNN
+19646;small_airport;Denison Municipal Airport;US;IA;Denison;DNS
+19647;small_airport;Vermilion Regional Airport;US;IL;Danville;DNV
+3494;medium_airport;Dover Air Force Base;US;DE;Dover;DOV
+19648;medium_airport;Dupage Airport;US;IL;Chicago/West Chicago;DPA
+19649;small_airport;Michael AAF (Dugway Proving Ground) Airport;US;UT;Dugway Proving Ground;DPG
+19652;medium_airport;Desert Rock Airport;US;NV;Mercury;DRA
+3495;medium_airport;Beauregard Regional Airport;US;LA;DeRidder;DRI
+19653;small_airport;Drummond Island Airport;US;MI;Drummond Island;DRE
+19654;small_airport;Durango La Plata County Airport;US;CO;Durango;DRO
+19655;medium_airport;Del Rio International Airport;US;TX;Del Rio;DRT
+3496;medium_airport;Des Moines International Airport;US;IA;Des Moines;DSM
+19656;small_airport;Dansville Municipal Airport;US;NY;Dansville;DSV
+19657;small_airport;Delta Municipal Airport;US;UT;Delta;DTA
+19658;small_airport;Detroit Lakes Airport - Wething Field;US;MN;Detroit Lakes;DTL
+19659;small_airport;Shreveport Downtown Airport;US;LA;Shreveport;DTN
+19661;small_airport;Destin Executive Airport;US;FL;Destin;DSI
+3497;large_airport;Detroit Metropolitan Wayne County Airport;US;MI;Detroit;DTW
+19662;small_airport;Durant Regional Airport - Eaker Field;US;OK;Durant;DUA
+19663;small_airport;Halliburton Field;US;OK;Duncan;DUC
+19664;medium_airport;Bisbee Douglas International Airport;US;AZ;Douglas Bisbee;DUG
+3498;medium_airport;DuBois Regional Airport;US;PA;Dubois;DUJ
+19668;small_airport;Devils Lake Regional Airport;US;ND;Devils Lake;DVL
+19669;small_airport;Davenport Municipal Airport;US;IA;Davenport;DVN
+19670;small_airport;Marin County Airport - Gnoss Field;US;CA;Novato;NOT
+19671;small_airport;Slayton Municipal Airport;US;MN;Slayton;NSL
+19672;small_airport;Phoenix Deer Valley Airport;US;AZ;Phoenix;DVT
+19673;small_airport;David Wayne Hooks Memorial Airport;US;TX;Houston;DWH
+19676;small_airport;Danbury Municipal Airport;US;CT;Danbury;DXR
+19679;small_airport;Doylestown Airport;US;PA;Doylestown;DYL
+3499;medium_airport;Dyess Air Force Base;US;TX;Abilene;DYS
+19682;small_airport;Roy Hurd Memorial Airport;US;TX;Monahans;MIF
+19686;small_airport;Crane County Airport;US;TX;Crane;CCG
+19687;small_airport;Ohkay Owingeh Airport;US;NM;Espanola;ESO
+19690;small_airport;Whiteriver Airport;US;AZ;Whiteriver;WTR
+19696;small_airport;Alpine Casparis Municipal Airport;US;TX;Alpine;ALE
+19701;small_airport;Bagdad Airport;US;AZ;Bagdad;BGT
+19715;small_airport;Phifer Airfield;US;WY;Wheatland;EAN
+19716;medium_airport;Kearney Regional Airport;US;NE;Kearney;EAR
+19717;medium_airport;Pangborn Memorial Airport;US;WA;Wenatchee;EAT
+3501;medium_airport;Chippewa Valley Regional Airport;US;WI;Eau Claire;EAU
+19718;small_airport;Nanwalek Airport;US;AK;Nanwalek;KEB
+19720;small_airport;Webster City Municipal Airport;US;IA;Webster City;EBS
+3502;medium_airport;Elizabeth City Regional Airport & Coast Guard Air Station;US;NC;Elizabeth City;ECG
+46530;medium_airport;Northwest Florida Beaches International Airport;US;FL;Panama City Beach;ECP
+19721;small_airport;Mondell Field;US;WY;Newcastle;ECS
+19723;small_airport;Northeastern Regional Airport;US;NC;Edenton;EDE
+19726;small_airport;Enterprise Municipal Airport;US;AL;Enterprise;ETS
+3503;medium_airport;Edwards Air Force Base;US;CA;Edwards;EDW
+19727;medium_airport;Needles Airport;US;CA;Needles;EED
+3504;medium_airport;Dillant Hopkins Airport;US;NH;Keene;EEN
+19731;medium_airport;Ellington Airport;US;TX;Houston;EFD
+19732;small_airport;Northeast Kingdom International Airport;US;VT;Newport;EFK
+19734;small_airport;Jefferson Municipal Airport;US;IA;Jefferson;EFW
+3505;medium_airport;Eagle County Regional Airport;US;CO;Eagle;EGE
+19735;medium_airport;Duke Field;US;FL;Crestview;EGI
+19738;small_airport;Eagle River Union Airport;US;WI;Eagle River;EGV
+19744;small_airport;Ekwok Airport;US;AK;Ekwok;KEK
+3506;medium_airport;Murray Field;US;CA;Eureka;EKA
+19745;small_airport;Elkhart Municipal Airport;US;IN;Elkhart;EKI
+3507;medium_airport;Elkins-Randolph County Regional Airport;US;WV;Elkins;EKN
+3508;medium_airport;Elko Regional Airport;US;NV;Elko;EKO
+19748;small_airport;Addington Field / Elizabethtown Regional Airport;US;KY;Elizabethtown;EKX
+19750;small_airport;Eagle Lake Airport;US;TX;Eagle Lake;ELA
+3509;medium_airport;South Arkansas Regional Airport at Goodwin Field;US;AR;El Dorado;ELD
+19751;small_airport;Elk City Regional Business Airport;US;OK;Elk City;ELK
+3510;medium_airport;Elmira Corning Regional Airport;US;NY;Elmira/Corning;ELM
+19752;small_airport;Bowers Field;US;WA;Ellensburg;ELN
+3511;medium_airport;Ely Municipal Airport;US;MN;Ely;LYU
+3512;medium_airport;El Paso International Airport;US;TX;El Paso;ELP
+19753;medium_airport;Ely Airport Yelland Field;US;NV;Ely;ELY
+19754;small_airport;Wellsville Municipal Airport - Tarantine Field;US;NY;Wellsville;ELZ
+19755;small_airport;Kemmerer Municipal Airport;US;WY;Kemmerer;EMM
+19756;small_airport;Emporia Municipal Airport;US;KS;Emporia;EMP
+19757;small_airport;San Gabriel Valley Airport;US;CA;El Monte;EMT
+3513;medium_airport;Vance Air Force Base;US;OK;Enid;END
+19759;small_airport;Centralia Municipal Airport;US;IL;Centralia;ENL
+19760;medium_airport;Wendover Airport;US;UT;Wendover;ENV
+3514;medium_airport;Kenosha Regional Airport;US;WI;Kenosha;ENW
+19761;small_airport;Keokuk Municipal Airport;US;IA;Keokuk;EOK
+19764;small_airport;Ephrata Municipal Airport;US;WA;Ephrata;EPH
+19766;small_airport;Captain Jack Thomas El Dorado Airport;US;KS;El Dorado;EDK
+3515;medium_airport;Erie International Tom Ridge Field;US;PA;Erie;ERI
+17181;small_airport;Errol Airport;US;NH;Errol;ERR
+19768;small_airport;Kerrville / Kerr County Airport at Louis Schreiner Field;US;TX;Kerrville;ERV
+19770;small_airport;Delta County Airport;US;MI;Escanaba;ESC
+3516;medium_airport;Esler Army Airfield / Esler Regional Airport;US;LA;Alexandria;ESF
+19771;small_airport;Easton Airport / Newnam Field;US;MD;Easton;ESN
+19772;small_airport;Estherville Municipal Airport;US;IA;Estherville;EST
+17182;small_airport;Easton State Airport;US;WA;Easton;ESW
+19773;small_airport;West Bend Municipal Airport;US;WI;West Bend;ETB
+19776;small_airport;Eastland Municipal Airport;US;TX;Eastland;ETN
+19777;small_airport;Weedon Field;US;AL;Eufaula;EUF
+3517;medium_airport;Mahlon Sweet Field;US;OR;Eugene;EUG
+19780;small_airport;Eveleth/Virginia Municipal Airport;US;MN;Eveleth;EVM
+3518;medium_airport;Evansville Regional Airport;US;IN;Evansville;EVV
+19782;medium_airport;Evanston-Uinta County Airport-Burns Field;US;WY;Evanston;EVW
+3519;medium_airport;New Bedford Regional Airport;US;MA;New Bedford;EWB
+19784;small_airport;Newton City-County Airport;US;KS;Newton;EWK
+3520;medium_airport;Coastal Carolina Regional Airport;US;NC;New Bern;EWN
+3521;large_airport;Newark Liberty International Airport;US;NJ;Newark;EWR
+3522;medium_airport;Key West International Airport;US;FL;Key West;EYW
+19796;small_airport;Wilbarger County Airport;US;TX;Vernon;WIB
+19829;small_airport;French Valley Airport;US;CA;Murrieta;RBK
+19843;medium_airport;Felker Army Air Field;US;VA;Newport News (Fort Eustis);FAF
+19844;small_airport;Farmington Regional Airport;US;MO;Farmington;FAM
+3523;medium_airport;Hector International Airport;US;ND;Fargo;FAR
+3524;medium_airport;Fresno Yosemite International Airport;US;CA;Fresno;FAT
+3525;medium_airport;Fayetteville Regional Airport - Grannis Field;US;NC;Fayetteville;FAY
+3526;medium_airport;Simmons Army Air Field;US;NC;Fort Bragg;FBG
+19845;small_airport;Faribault Municipal Airport-Liz Wall Strohfus Field;US;MN;Faribault;FBL
+19846;small_airport;Fort Bridger Airport;US;WY;Fort Bridger;FBR
+19847;small_airport;Fairbury Municipal Airport;US;NE;Fairbury;FBY
+19848;small_airport;Fresno Chandler Executive Airport;US;CA;Fresno;FCH
+19850;small_airport;Flying Cloud Airport;US;MN;Minneapolis;FCM
+19851;medium_airport;Butts AAF (Fort Carson) Air Field;US;CO;Fort Carson;FCS
+19853;small_airport;Forrest City Municipal Airport;US;AR;Forrest City;FCY
+19854;small_airport;Frederick Municipal Airport;US;MD;Frederick;FDK
+19855;small_airport;Frederick Regional Airport;US;OK;Frederick;FDR
+19857;medium_airport;Findlay Airport;US;OH;Findlay;FDY
+19858;small_airport;Albertus Airport;US;IL;Freeport;FEP
+19860;small_airport;Fremont Municipal Airport;US;NE;Fremont;FET
+19861;small_airport;First Flight Airport;US;NC;Kill Devil Hills;FFA
+19863;small_airport;Fairfield Municipal Airport;US;IA;Fairfield;FFL
+19864;small_airport;Fergus Falls Municipal Airport - Einar Mickelson Field;US;MN;Fergus Falls;FFM
+3528;medium_airport;Wright-Patterson Air Force Base;US;OH;Dayton;FFO
+19865;small_airport;Capital City Airport;US;KY;Frankfort;FFT
+19866;small_airport;Falcon Field;US;AZ;Mesa;MSC
+19868;small_airport;Friday Harbor Airport;US;WA;Friday Harbor;FRD
+3529;medium_airport;Sierra Vista Municipal Airport / Libby Army Air Field;US;AZ;Fort Huachuca / Sierra Vista;FHU
+19872;medium_airport;Venango Regional Airport;US;PA;Franklin;FKL
+19873;small_airport;Franklin Regional Airport;US;VA;Franklin;FKN
+19876;small_airport;Fond du Lac County Airport;US;WI;Fond du Lac;FLD
+3530;medium_airport;Flagstaff Pulliam International Airport;US;AZ;Flagstaff;FLG
+3531;large_airport;Fort Lauderdale Hollywood International Airport;US;FL;Fort Lauderdale;FLL
+3532;medium_airport;Florence Regional Airport;US;SC;Florence;FLO
+19877;small_airport;Marion County Regional Airport;US;AR;Flippin;FLP
+3533;small_airport;Sherman Army Air Field;US;KS;Fort Leavenworth;FLV
+19878;small_airport;Fallon Municipal Airport;US;NV;Fallon;FLX
+3534;medium_airport;Tipton Airport;US;MD;Fort Meade(Odenton);FME
+19879;small_airport;Cape Cod Coast Guard Air Station;US;MA;Falmouth;FMH
+19881;medium_airport;Four Corners Regional Airport;US;NM;Farmington;FMN
+19882;medium_airport;Page Field;US;FL;Fort Myers;FMY
+19885;small_airport;Northern Colorado Regional Airport;US;CO;Loveland;FNL
+3535;medium_airport;Bishop International Airport;US;MI;Flint;FNT
+3536;medium_airport;Fort Dodge Regional Airport;US;IA;Fort Dodge;FOD
+3537;medium_airport;Topeka Regional Airport;US;KS;Topeka;FOE
+19887;small_airport;Francis S Gabreski Airport;US;NY;Westhampton Beach;FOK
+19888;small_airport;Fillmore Municipal Airport;US;UT;Fillmore;FIL
+3538;medium_airport;St Lucie County International Airport;US;FL;Fort Pierce;FPR
+3539;medium_airport;Republic Airport;US;NY;Farmingdale;FRG
+19894;small_airport;French Lick Municipal Airport;US;IN;French Lick;FRH
+3540;medium_airport;Marshall Army Air Field;US;KS;Fort Riley (Junction City);FRI
+19895;small_airport;Fairmont Municipal Airport;US;MN;Fairmont;FRM
+19896;small_airport;Front Royal Warren County Airport;US;VA;Front Royal;FRR
+3541;medium_airport;Sioux Falls Regional Airport / Joe Foss Field;US;SD;Sioux Falls;FSD
+3542;medium_airport;Henry Post Army Air Field (Fort Sill);US;OK;Fort Sill;FSI
+19898;small_airport;Fort Scott Municipal Airport;US;KS;Fort Scott;FSK
+3543;medium_airport;Fort Smith Regional Airport;US;AR;Fort Smith;FSM
+19900;medium_airport;Fort Stockton Pecos County Airport;US;TX;Fort Stockton;FST
+19901;small_airport;Fort Sumner Municipal Airport;US;NM;Fort Sumner;FSU
+19902;small_airport;Fort Madison Municipal Airport;US;IA;Fort Madison;FMS
+3544;medium_airport;Godman Army Air Field;US;KY;Fort Knox;FTK
+3545;medium_airport;Fort Worth Meacham International Airport;US;TX;Fort Worth;FTW
+3546;medium_airport;Fulton County Airport Brown Field;US;GA;Atlanta;FTY
+19905;small_airport;Fullerton Municipal Airport;US;CA;Fullerton;FUL
+19906;small_airport;Northern Aroostook Regional Airport;US;ME;Frenchville;WFK
+3547;medium_airport;Fort Wayne International Airport;US;IN;Fort Wayne;FWA
+19912;medium_airport;Fort Lauderdale Executive Airport;US;FL;Fort Lauderdale;FXE
+19913;small_airport;Forest City Municipal Airport;US;IA;Forest City;FXY
+19916;small_airport;Fayetteville Municipal Airport;US;TN;Fayetteville;FYM
+3548;medium_airport;Drake Field;US;AR;Fayetteville;FYV
+19920;small_airport;Northeast Alabama Regional Airport;US;AL;Gadsden;GAD
+17574;small_airport;Gage Heibeck Airport;US;OK;Gage;GAG
+19922;small_airport;Montgomery County Airpark;US;MD;Gaithersburg;GAI
+19925;small_airport;Great Bend Municipal Airport;US;KS;Great Bend;GBD
+19926;small_airport;Galesburg Municipal Airport;US;IL;Galesburg;GBG
+19928;small_airport;Walter J. Koladza Airport;US;MA;Great Barrington;GBR
+19929;medium_airport;Northeast Wyoming Regional Airport;US;WY;Gillette;GCC
+17576;small_airport;Grant County Regional Airport / Ogilvie Field;US;OR;John Day;JDA
+3550;medium_airport;Garden City Regional Airport;US;KS;Garden City;GCK
+3551;medium_airport;Grand Canyon National Park Airport;US;AZ;Grand Canyon - Tusayan;GCN
+19932;small_airport;Greeneville Municipal Airport;US;TN;Greeneville;GCY
+19935;small_airport;Gardner Municipal Airport;US;MA;Gardner;GDM
+19936;medium_airport;Dawson Community Airport;US;MT;Glendive;GDV
+19937;small_airport;Gladwin Zettel Memorial Airport;US;MI;Gladwin;GDW
+19938;small_airport;Delaware Coastal Airport;US;DE;Georgetown;GED
+3552;medium_airport;Spokane International Airport;US;WA;Spokane;GEG
+19942;small_airport;South Big Horn County Airport;US;WY;Greybull;GEY
+3553;medium_airport;Grand Forks International Airport;US;ND;Grand Forks;GFK
+3554;medium_airport;Floyd Bennett Memorial Airport;US;NY;Glens Falls;GFL
+19945;small_airport;Georgetown County Airport;US;SC;Georgetown;GGE
+3555;medium_airport;East Texas Regional Airport;US;TX;Longview;GGG
+3556;medium_airport;Wokal Field/Glasgow-Valley County Airport;US;MT;Glasgow;GGW
+19950;small_airport;Centerville Municipal Airport;US;TN;Centerville;GHM
+19952;small_airport;Winter Haven Regional Airport - Gilbert Field;US;FL;Winter Haven;GIF
+3557;medium_airport;Grand Junction Regional Airport;US;CO;Grand Junction;GJT
+19953;small_airport;Port Meadville Airport;US;PA;Meadville;MEJ
+19954;small_airport;Gatlinburg-Pigeon Forge Airport;US;TN;Sevierville;GKT
+19956;medium_airport;Goodland Municipal Airport;US;KS;Goodland;GLD
+19957;small_airport;Gainesville Municipal Airport;US;TX;Gainesville;GLE
+19958;medium_airport;Mid Delta Regional Airport;US;MS;Greenville;GLH
+19959;small_airport;Gaylord Regional Airport;US;MI;Gaylord;GLR
+3558;medium_airport;Scholes International At Galveston Airport;US;TX;Galveston;GLS
+19960;small_airport;Glasgow Municipal Airport;US;KY;Glasgow;GLW
+19963;medium_airport;Greenville Downtown Airport;US;SC;Greenville;GMU
+19967;small_airport;Gooding Municipal Airport;US;ID;Gooding;GNG
+19968;small_airport;Grants-Milan Municipal Airport;US;NM;Grants;GNT
+3559;medium_airport;Gainesville Regional Airport;US;FL;Gainesville;GNV
+19969;small_airport;Guthrie-Edmond Regional Airport;US;OK;Guthrie;GOK
+3560;medium_airport;Groton New London Airport;US;CT;Groton;GON
+3527;medium_airport;Glacier Park International Airport;US;MT;Kalispell;FCA
+3561;medium_airport;Gulfport Biloxi International Airport;US;MS;Gulfport;GPT
+19974;small_airport;Grand Rapids Itasca Co-Gordon Newstrom field;US;MN;Grand Rapids;GPZ
+19975;small_airport;Galion Municipal Airport;US;OH;Galion;GQQ
+3562;medium_airport;Austin Straubel International Airport;US;WI;Green Bay;GRB
+19976;small_airport;Greenwood County Airport;US;SC;Greenwood;GRD
+19977;small_airport;Greenville Airport;US;IL;Greenville;GRE
+3563;medium_airport;Gray Army Air Field;US;WA;Fort Lewis/Tacoma;GRF
+3564;medium_airport;Central Nebraska Regional Airport;US;NE;Grand Island;GRI
+3565;medium_airport;Killeen-Fort Hood Regional Airport / Robert Gray Army Air Field;US;TX;Killeen;GRK
+19978;small_airport;Gordon Municipal Airport;US;NE;Gordon;GRN
+3566;medium_airport;Gerald R. Ford International Airport;US;MI;Grand Rapids;GRR
+3567;medium_airport;Seymour Johnson Air Force Base;US;NC;Goldsboro;GSB
+19979;small_airport;Goshen Municipal Airport;US;IN;Goshen;GSH
+3568;medium_airport;Piedmont Triad International Airport;US;NC;Greensboro;GSO
+3569;medium_airport;Greenville Spartanburg International Airport;US;SC;Greer;GSP
+3571;medium_airport;Great Falls International Airport;US;MT;Great Falls;GTF
+19981;small_airport;Grantsburg Municipal Airport;US;WI;Grantsburg;GTG
+19982;medium_airport;Golden Triangle Regional Airport;US;MS;Columbus/W Point/Starkville;GTR
+19984;small_airport;Gunnison Crested Butte Regional Airport;US;CO;Gunnison;GUC
+3572;medium_airport;Gallup Municipal Airport;US;NM;Gallup;GUP
+3573;medium_airport;Grissom Air Reserve Base;US;IN;Peru;GUS
+19985;medium_airport;Guymon Municipal Airport;US;OK;Guymon;GUY
+19986;small_airport;Lee Gilmer Memorial Airport;US;GA;Gainesville;GVL
+19988;small_airport;Majors Airport;US;TX;Greenville;GVT
+3574;medium_airport;Greenwood–Leflore Airport;US;MS;Greenwood;GWO
+19991;small_airport;Glenwood Springs Municipal Airport;US;CO;Glenwood Springs;GWS
+19993;small_airport;Grayling Airport;US;AK;Grayling;KGX
+19994;small_airport;Greeley–Weld County Airport;US;CO;Greeley;GXY
+19996;small_airport;Donaldson Field Airport;US;SC;Greenville;GDC
+19997;small_airport;North Texas Regional Airport/Perrin Field;US;TX;Sherman/Denison;PNX
+19999;small_airport;Phoenix Goodyear Airport;US;AZ;Goodyear;GYR
+3575;medium_airport;Gary Chicago International Airport;US;IN;Gary;GYY
+20000;small_airport;Glacier Creek Airport;US;AK;Glacier Creek;KGZ
+20021;small_airport;Marion County Rankin Fite Airport;US;AL;Hamilton;HAB
+20023;small_airport;Half Moon Bay Airport;US;CA;Half Moon Bay;HAF
+20024;small_airport;Three Rivers Municipal Dr Haines Airport;US;MI;Three Rivers;HAI
+20025;small_airport;Butler Co Regional Airport - Hogan Field;US;OH;Hamilton;HAO
+20027;medium_airport;Hattiesburg Bobby L Chain Municipal Airport;US;MS;Hattiesburg;HBG
+20029;medium_airport;Hobart Regional Airport;US;OK;Hobart;HBR
+20036;small_airport;Brewster Field;US;NE;Holdrege;HDE
+20038;small_airport;Yampa Valley Airport;US;CO;Hayden;HDN
+20040;small_airport;Thompson-Robbins Airport;US;AR;West Helena;HEE
+20041;small_airport;Manassas Regional Airport/Harry P. Davis Field;US;VA;Manassas;MNZ
+20045;small_airport;Natchez–Adams County Airport / Hardy-Anders Field;US;MS;Natchez;HEZ
+3576;medium_airport;Hartford Brainard Airport;US;CT;Hartford;HFD
+20046;small_airport;Mackall Army Air Field;US;NC;Hoffman;HFF
+3577;medium_airport;Hagerstown Regional Richard A Henson Field;US;MD;Hagerstown;HGR
+3578;medium_airport;Jack Northrop Field Hawthorne Municipal Airport;US;CA;Hawthorne;HHR
+20050;small_airport;Stan Stamper Municipal Airport;US;OK;Hugo;HUJ
+3579;medium_airport;Range Regional Airport;US;MN;Hibbing;HIB
+20051;small_airport;Mount Washington Regional Airport;US;NH;Whitefield;HIE
+3580;medium_airport;Hill Air Force Base;US;UT;Ogden;HIF
+20053;medium_airport;Lake Havasu City International Airport;US;AZ;Lake Havasu City;HII
+20054;medium_airport;Portland Hillsboro Airport;US;OR;Portland;HIO
+20057;small_airport;Blytheville Municipal Airport;US;AR;Blytheville;HKA
+20058;small_airport;Hawkins Field;US;MS;Jackson;HKS
+3581;medium_airport;Hickory Regional Airport;US;NC;Hickory;HKY
+20059;small_airport;Hillenbrand Industries Airport;US;IN;Batesville;HLB
+20060;small_airport;Hill City Municipal Airport;US;KS;Hill City;HLC
+20061;medium_airport;Wheeling Ohio County Airport;US;WV;Wheeling;HLG
+20062;small_airport;Park Township Airport;US;MI;Holland;HLM
+3582;medium_airport;Helena Regional Airport;US;MT;Helena;HLN
+3584;medium_airport;Holloman Air Force Base;US;NM;Alamogordo;HMN
+20064;small_airport;Hemet Ryan Airport;US;CA;Hemet;HMT
+20067;small_airport;Huntingburg Airport;US;IN;Huntingburg;HNB
+20068;small_airport;Henderson Executive Airport;US;NV;Las Vegas;HSH
+20071;medium_airport;Lea County Regional Airport;US;NM;Hobbs;HOB
+3585;medium_airport;Huron Regional Airport;US;SD;Huron;HON
+3586;medium_airport;Campbell Army Airfield (Fort Campbell);US;KY;Fort Campbell;HOP
+3587;medium_airport;Memorial Field Airport;US;AR;Hot Springs;HOT
+3588;medium_airport;William P Hobby Airport;US;TX;Houston;HOU
+3589;medium_airport;Westchester County Airport;US;NY;White Plains;HPN
+20074;small_airport;Hampton Municipal Airport;US;IA;Hampton;HPT
+20075;small_airport;Baytown Airport;US;TX;Baytown;HPY
+3590;medium_airport;Bowerman Airport;US;WA;Hoquiam;HQM
+20079;small_airport;Hermiston Municipal Airport;US;OR;Hermiston;HES
+3591;medium_airport;Valley International Airport;US;TX;Harlingen;HRL
+3592;medium_airport;Boone County Airport;US;AR;Harrison;HRO
+20085;small_airport;Harrisburg-Raleigh Airport;US;IL;Harrisburg;HSB
+20087;small_airport;Billy Mitchell Airport;US;NC;Hatteras;HNC
+324906;small_airport;Hot Springs County Airport;US;WY;Thermopolis;THP
+20088;small_airport;Hastings Municipal Airport;US;NE;Hastings;HSI
+20089;small_airport;Ingalls Field;US;VA;Hot Springs;HSP
+3593;medium_airport;Homestead ARB Airport;US;FL;Homestead;HST
+3594;medium_airport;Huntsville International Carl T Jones Field;US;AL;Huntsville;HSV
+20091;small_airport;Hawthorne Industrial Airport;US;NV;Hawthorne;HTH
+20092;small_airport;Roscommon County - Blodgett Memorial Airport;US;MI;Houghton Lake;HTL
+20093;small_airport;Town of East Hampton Airport;US;NY;East Hampton;HTO
+3595;medium_airport;Tri-State Airport / Milton J. Ferguson Field;US;WV;Huntington;HTS
+20094;small_airport;Lawrence County Airpark;US;OH;South Point;HTW
+3596;medium_airport;Redstone Army Air Field;US;AL;Redstone Arsnl Huntsville;HUA
+3597;medium_airport;Terre Haute Regional Airport, Hulman Field;US;IN;Terre Haute;HUF
+20095;medium_airport;Houlton International Airport;US;ME;Houlton;HUL
+20096;small_airport;Houma Terrebonne Airport;US;LA;Houma;HUM
+3598;medium_airport;Hutchinson Municipal Airport;US;KS;Hutchinson;HUT
+20098;small_airport;Hanksville Airport;US;UT;Hanksville;HVE
+3599;medium_airport;Tweed New Haven Airport;US;CT;New Haven;HVN
+20099;medium_airport;Havre City County Airport;US;MT;Havre;HVR
+20100;small_airport;Hartsville Regional Airport;US;SC;Hartsville;HVS
+20101;small_airport;Hayward Executive Airport;US;CA;Hayward;HWD
+20102;small_airport;North Perry Airport;US;FL;Hollywood;HWO
+20104;small_airport;Brookhaven Calabro Airport;US;NY;Shirley;WSH
+20105;small_airport;Hilton Head Airport;US;SC;Hilton Head Island;HHH
+3600;medium_airport;Cape Cod Gateway Airport;US;MA;Hyannis;HYA
+20108;medium_airport;Sawyer County Airport;US;WI;Hayward;HYR
+20109;medium_airport;Hays Regional Airport;US;KS;Hays;HYS
+20114;small_airport;Hazleton Municipal Airport;US;PA;Hazleton;HZL
+20117;medium_airport;Northeast Ohio Regional Airport;US;OH;Ashtabula;JFN
+3601;medium_airport;McConnell Air Force Base;US;KS;Wichita;IAB
+3602;large_airport;Washington Dulles International Airport;US;VA;Dulles;IAD
+3603;medium_airport;Niagara Falls International Airport;US;NY;Niagara Falls;IAG
+3604;large_airport;George Bush Intercontinental Houston Airport;US;TX;Houston;IAH
+20152;small_airport;Schenck Field;US;IA;Clarinda;ICL
+3605;medium_airport;Wichita Eisenhower National Airport;US;KS;Wichita;ICT
+3606;medium_airport;Idaho Falls Regional Airport;US;ID;Idaho Falls;IDA
+20154;small_airport;Indiana County–Jimmy Stewart Airport;US;PA;Indiana;IDI
+20156;small_airport;Independence Municipal Airport;US;KS;Independence;IDP
+20157;small_airport;Pine Ridge Airport;US;SD;Pine Ridge;XPR
+20159;small_airport;Iowa Falls Municipal Airport;US;IA;Iowa Falls;IFA
+20160;medium_airport;Laughlin Bullhead International Airport;US;AZ;Bullhead City;IFP
+20161;medium_airport;Kingman Airport;US;AZ;Kingman;IGM
+3607;medium_airport;Greater Kankakee Airport;US;IL;Kankakee;IKK
+20171;small_airport;Skylark Field;US;TX;Killeen;ILE
+3608;medium_airport;New Castle Airport;US;DE;Wilmington;ILG
+3609;medium_airport;Wilmington International Airport;US;NC;Wilmington;ILM
+20173;medium_airport;Wilmington Airpark;US;OH;Wilmington;ILN
+20174;small_airport;Imperial Municipal Airport;US;NE;Imperial;IML
+20175;small_airport;Immokalee Regional Airport;US;FL;Immokalee;IMM
+20176;small_airport;Madison Municipal Airport;US;IN;Madison;MDN
+20177;small_airport;Ford Airport;US;MI;Iron Mountain / Kingsford;IMT
+3610;large_airport;Indianapolis International Airport;US;IN;Indianapolis;IND
+3611;medium_airport;Winkler County Airport;US;TX;Wink;INK
+3612;medium_airport;Falls International Airport;US;MN;International Falls;INL
+20179;small_airport;Creech Air Force Base;US;NV;Indian Springs;INS
+3613;medium_airport;Smith Reynolds Airport;US;NC;Winston Salem;INT
+20180;medium_airport;Winslow Lindbergh Regional Airport;US;AZ;Winslow;INW
+20182;small_airport;Iowa City Municipal Airport;US;IA;Iowa City;IOW
+20184;medium_airport;Imperial County Airport;US;CA;Imperial;IPL
+3614;medium_airport;Williamsport Regional Airport;US;PA;Williamsport;IPT
+3615;medium_airport;Kirksville Regional Airport;US;MO;Kirksville;IRK
+20185;small_airport;Kirsch Municipal Airport;US;MI;Sturgis;IRS
+20187;medium_airport;Kissimmee Gateway Airport;US;FL;Orlando;ISM
+20189;medium_airport;Kinston Regional Jetport At Stallings Field;US;NC;Kinston;ISO
+3616;medium_airport;Long Island Mac Arthur Airport;US;NY;Islip;ISP
+20190;small_airport;Schoolcraft County Airport;US;MI;Manistique;ISQ
+20191;small_airport;Alexander Field South Wood County Airport;US;WI;Wisconsin Rapids;ISW
+20193;medium_airport;Ithaca Tompkins Regional Airport;US;NY;Ithaca;ITH
+3617;medium_airport;Phoenix–Mesa Gateway Airport;US;AZ;Mesa;AZA
+20195;small_airport;Gogebic Iron County Airport;US;MI;Ironwood;IWD
+20197;small_airport;Wiscasset Airport;US;ME;Wiscasset;ISS
+20198;small_airport;West Houston Airport;US;TX;Houston;IWS
+20199;small_airport;New Century AirCenter Airport;US;KS;New Century;JCI
+20200;small_airport;Inyokern Airport;US;CA;Inyokern;IYK
+20201;small_airport;Santa Ynez Airport;US;CA;Santa Ynez;SQA
+20202;small_airport;Eastern Slopes Regional Airport;US;ME;Fryeburg;FRY
+3618;medium_airport;Jackson Hole Airport;US;WY;Jackson;JAC
+3619;medium_airport;Jackson-Medgar Wiley Evers International Airport;US;MS;Jackson;JAN
+20203;small_airport;Jasper County Airport Bell Field;US;TX;Jasper;JAS
+3620;large_airport;Jacksonville International Airport;US;FL;Jacksonville;JAX
+3621;medium_airport;Jonesboro Municipal Airport;US;AR;Jonesboro;JBR
+20205;medium_airport;Kimble County Airport;US;TX;Junction;JCT
+20207;small_airport;Jordan Airport;US;MT;Jordan;JDN
+20208;small_airport;Jefferson City Memorial Airport;US;MO;Jefferson City;JEF
+3622;large_airport;John F Kennedy International Airport;US;NY;New York;JFK
+20213;medium_airport;Chautauqua County-Jamestown Airport;US;NY;Jamestown;JHW
+20214;small_airport;Jack Edwards National Airport;US;AL;Gulf Shores;GUF
+3623;medium_airport;Joplin Regional Airport;US;MO;Joplin;JLN
+3624;medium_airport;Jamestown Regional Airport;US;ND;Jamestown;JMS
+20219;small_airport;Joliet Regional Airport;US;IL;Joliet;JOT
+20220;medium_airport;Concord-Padgett Regional Airport;US;NC;Concord;USA
+20221;small_airport;Cherokee County Airport;US;TX;Jacksonville;JKV
+3625;medium_airport;John Murtha Johnstown Cambria County Airport;US;PA;Johnstown;JST
+20223;small_airport;Southern Wisconsin Regional Airport;US;WI;Janesville;JVL
+3626;medium_airport;Jackson County Airport/Reynolds Field;US;MI;Jackson;JXN
+20275;small_airport;Mesa Del Rey Airport;US;CA;King City;KIC
+20277;medium_airport;Southwest Washington Regional Airport;US;WA;Kelso;KLS
+20279;small_airport;Ekuk Airport;US;AK;Ekuk;KKU
+20283;small_airport;Furnace Creek Airport;US;CA;Death Valley;DTH
+20284;small_airport;Borrego Valley Airport;US;CA;Borrego Springs;BXS
+20296;small_airport;Big Bear City Airport;US;CA;Big Bear;RBF
+20309;small_airport;Trona Airport;US;CA;Trona;TRH
+20317;medium_airport;Southeast Colorado Regional Airport;US;CO;Lamar;LAA
+3627;medium_airport;Purdue University Airport;US;IN;West Lafayette;LAF
+3628;medium_airport;Lakeland Linder International Airport;US;FL;Lakeland;LAL
+20318;small_airport;Los Alamos Airport;US;NM;Los Alamos;LAM
+3629;medium_airport;Capital City Airport;US;MI;Lansing;LAN
+3630;medium_airport;Laramie Regional Airport;US;WY;Laramie;LAR
+3631;large_airport;Harry Reid International Airport;US;NV;Las Vegas;LAS
+20319;medium_airport;Lawton Fort Sill Regional Airport;US;OK;Lawton;LAW
+3632;large_airport;Los Angeles / Tom Bradley International Airport;US;CA;Los Angeles;LAX
+3633;medium_airport;Lubbock Preston Smith International Airport;US;TX;Lubbock;LBB
+3634;medium_airport;Arnold Palmer Regional Airport;US;PA;Latrobe;LBE
+3635;medium_airport;North Platte Regional Airport Lee Bird Field;US;NE;North Platte;LBF
+3636;medium_airport;Liberal Mid-America Regional Airport;US;KS;Liberal;LBL
+20322;medium_airport;Lumberton Regional Airport;US;NC;Lumberton;LBT
+20323;medium_airport;Texas Gulf Coast Regional Airport;US;TX;Angleton;LJN
+3637;medium_airport;Lake Charles Regional Airport;US;LA;Lake Charles;LCH
+20325;small_airport;Laconia Municipal Airport;US;NH;Laconia / Gilford;LCI
+3638;medium_airport;Rickenbacker International Airport;US;OH;Columbus;LCK
+20326;small_airport;Lake City Gateway Airport;US;FL;Lake City;LCQ
+20327;small_airport;Linden Airport;US;NJ;Linden;LDJ
+20328;small_airport;Mason County Airport;US;MI;Ludington;LDM
+3639;medium_airport;Lebanon Municipal Airport;US;NH;Lebanon;LEB
+20329;medium_airport;Leesburg International Airport;US;FL;Leesburg;LEE
+20330;small_airport;Lemmon Municipal Airport;US;SD;Lemmon;LEM
+20331;small_airport;Auburn Lewiston Municipal Airport;US;ME;Auburn/Lewiston;LEW
+3640;medium_airport;Blue Grass Airport;US;KY;Lexington;LEX
+3641;medium_airport;Langley Air Force Base;US;VA;Hampton;LFI
+20332;medium_airport;Angelina County Airport;US;TX;Lufkin;LFK
+3642;medium_airport;Lafayette Regional Airport;US;LA;Lafayette;LFT
+3643;large_airport;La Guardia Airport;US;NY;New York;LGA
+3644;medium_airport;Long Beach Airport (Daugherty Field);US;CA;Long Beach;LGB
+20334;small_airport;LaGrange Callaway Airport;US;GA;LaGrange;LGC
+20335;small_airport;La Grande/Union County Airport;US;OR;La Grande;LGD
+20336;small_airport;Laguna Army Airfield;US;AZ;Yuma Proving Ground(Yuma);LGF
+20337;medium_airport;Logan-Cache Airport;US;UT;Logan;LGU
+20341;small_airport;William T. Piper Memorial Airport;US;PA;Lock Haven;LHV
+20342;small_airport;MidCoast Regional Airport at Wright Army Airfield;US;GA;Hinesville;LIY
+20344;small_airport;Triangle North Executive Airport;US;NC;Louisburg;LFN
+20345;small_airport;Limon Municipal Airport;US;CO;Limon;LIC
+3645;medium_airport;Bill & Hillary Clinton National Airport/Adams Field;US;AR;Little Rock;LIT
+20348;small_airport;Lake Placid Airport;US;NY;Lake Placid;LKP
+20350;small_airport;Louisa County Airport / Freeman Field;US;VA;Louisa;LOW
+20351;small_airport;Lake County Airport;US;OR;Lakeview;LKV
+20352;small_airport;Challis Airport;US;ID;Challis;CHL
+20356;small_airport;Louisville Winston County Airport;US;MS;Louisville;LMS
+3646;medium_airport;Crater Lake-Klamath Regional Airport;US;OR;Klamath Falls;LMT
+20357;small_airport;Palm Beach County Park Airport;US;FL;West Palm Beach;LNA
+20359;medium_airport;Hunt Field;US;WY;Lander;LND
+3647;medium_airport;Lincoln Airport;US;NE;Lincoln;LNK
+20361;small_airport;Lake County Executive Airport;US;OH;Willoughby;LNN
+20362;small_airport;Lonesome Pine Airport;US;VA;Wise;LNP
+20363;small_airport;Tri-County Regional Airport;US;WI;Spring Green;LNR
+3648;medium_airport;Lancaster Airport;US;PA;Lancaster;LNS
+20364;medium_airport;Derby Field;US;NV;Lovelock;LOL
+20365;small_airport;Wings Field;US;PA;Philadelphia;BBX
+20366;small_airport;Lewis University Airport;US;IL;Chicago/Romeoville;LOT
+3649;medium_airport;Bowman Field;US;KY;Louisville;LOU
+3650;medium_airport;London-Corbin Airport/Magee Field;US;KY;London;LOZ
+20367;small_airport;Lompoc Airport;US;CA;Lompoc;LPC
+20369;small_airport;Pickens County Airport;US;SC;Pickens;LQK
+3651;medium_airport;Laredo International Airport;US;TX;Laredo;LRD
+3652;medium_airport;Little Rock Air Force Base;US;AR;Jacksonville;LRF
+20372;small_airport;Le Mars Municipal Airport;US;IA;Le Mars;LRJ
+3653;medium_airport;Las Cruces International Airport;US;NM;Las Cruces;LRU
+20375;small_airport;Lordsburg Municipal Airport;US;NM;Lordsburg;LSB
+3654;medium_airport;La Crosse Regional Airport;US;WI;La Crosse;LSE
+3655;medium_airport;Lawson Army Air Field;US;GA;Fort Benning;LSF
+20376;small_airport;Lusk Municipal Airport;US;WY;Lusk;LSK
+20377;small_airport;Los Banos Municipal Airport;US;CA;Los Banos;LSN
+3656;medium_airport;Nellis Air Force Base;US;NV;Las Vegas;LSV
+3657;medium_airport;Altus Air Force Base;US;OK;Altus;LTS
+3658;medium_airport;Luke Air Force Base;US;AZ;Glendale;LUF
+3659;medium_airport;Cincinnati Municipal Airport Lunken Field;US;OH;Cincinnati;LUK
+20381;small_airport;Hesler Noble Field;US;MS;Laurel;LUL
+20384;small_airport;Livermore Municipal Airport;US;CA;Livermore;LVK
+20385;small_airport;Brunswick Municipal Airport;US;VA;Lawrenceville;LVL
+20386;medium_airport;Mission Field;US;MT;Livingston;LVM
+20388;medium_airport;Las Vegas Municipal Airport;US;NM;Las Vegas;LVS
+20390;medium_airport;Greenbrier Valley Airport;US;WV;Lewisburg;LWB
+20391;small_airport;Lawrence Municipal Airport;US;KS;Lawrence;LWC
+20392;small_airport;Wells Municipal Airport/Harriet Field;US;NV;Wells;LWL
+3660;medium_airport;Lawrence Municipal Airport;US;MA;Lawrence;LWM
+20393;medium_airport;Lewiston Nez Perce County Airport;US;ID;Lewiston;LWS
+3661;medium_airport;Lewistown Municipal Airport;US;MT;Lewistown;LWT
+20394;small_airport;Lawrenceville Vincennes International Airport;US;IL;Lawrenceville;LWV
+20396;small_airport;Jim Kelly Field;US;NE;Lexington;LXN
+20398;small_airport;Lake County Airport;US;CO;Leadville;LXV
+3662;medium_airport;Lynchburg Regional Airport - Preston Glenn Field;US;VA;Lynchburg;LYH
+20400;small_airport;Lyons-Rice County Municipal Airport;US;KS;Lyons;LYO
+20401;small_airport;Gwinnett County Briscoe Field;US;GA;Lawrenceville;LZU
+20410;small_airport;Poplarville Pearl River County Airport;US;MS;Poplarville;PCU
+20453;small_airport;Malta Airport;US;MT;Malta;MLK
+20468;small_airport;Macon Downtown Airport;US;GA;Macon;MAC
+20469;small_airport;Madera Municipal Airport;US;CA;Madera;MAE
+3663;medium_airport;Midland International Air and Space Port;US;TX;Midland;MAF
+20473;small_airport;Malden Regional Airport;US;MO;Malden;MAW
+20474;medium_airport;Mobridge Municipal Airport;US;SD;Mobridge;MBG
+20475;small_airport;Manistee County Blacker Airport;US;MI;Manistee;MBL
+20476;small_airport;Bruce Campbell Field;US;MS;Madison;DXE
+3664;medium_airport;MBS International Airport;US;MI;Saginaw;MBS
+20478;small_airport;Omar N Bradley Airport;US;MO;Moberly;MBY
+3665;medium_airport;McComb-Pike County Airport / John E Lewis Field;US;MS;McComb;MCB
+3666;medium_airport;McClellan Airfield;US;CA;Sacramento;MCC
+20479;small_airport;Mackinac Island Airport;US;MI;Mackinac Island;MCD
+20480;medium_airport;Merced Regional Macready Field;US;CA;Merced;MCE
+3667;medium_airport;MacDill Air Force Base;US;FL;Tampa;MCF
+3668;large_airport;Kansas City International Airport;US;MO;Kansas City;MCI
+20481;medium_airport;McCook Ben Nelson Regional Airport;US;NE;McCook;MCK
+3669;medium_airport;Middle Georgia Regional Airport;US;GA;Macon;MCN
+3670;large_airport;Orlando International Airport;US;FL;Orlando;MCO
+20482;medium_airport;Mason City Municipal Airport;US;IA;Clear Lake;MCW
+20486;small_airport;Midland Airpark;US;TX;Midland;MDD
+3671;medium_airport;Southern Illinois Airport;US;IL;Murphysboro;MDH
+20489;small_airport;Madison Municipal Airport;US;SD;Madison;XMD
+3672;medium_airport;Harrisburg International Airport;US;PA;Harrisburg;MDT
+3673;large_airport;Chicago Midway International Airport;US;IL;Chicago;MDW
+20490;small_airport;Taylor County Airport;US;WI;Medford;MDF
+20491;small_airport;Laurinburg Maxton Airport;US;NC;Maxton;MXE
+3674;medium_airport;Key Field / Meridian Regional Airport;US;MS;Meridian;MEI
+3675;large_airport;Memphis International Airport;US;TN;Memphis;MEM
+3676;medium_airport;Castle Airport;US;CA;Merced;MER
+20493;small_airport;Minden-Tahoe Airport;US;NV;Minden;MEV
+20495;small_airport;Mena Intermountain Municipal Airport;US;AR;Mena;UMZ
+3677;medium_airport;Mansfield Lahm Regional Airport;US;OH;Mansfield;MFD
+3678;medium_airport;McAllen Miller International Airport;US;TX;McAllen;MFE
+20496;small_airport;Marshfield Municipal Airport;US;WI;Marshfield;MFI
+3679;medium_airport;Rogue Valley International Medford Airport;US;OR;Medford;MFR
+20497;small_airport;Accomack County Airport;US;VA;Melfa;MFV
+20498;small_airport;Michigan City Municipal Airport;US;IN;Michigan City;MGC
+3680;medium_airport;Dobbins Air Reserve Base;US;GA;Marietta;MGE
+20499;small_airport;Orange County Airport;US;NY;Montgomery;MGJ
+3681;medium_airport;Montgomery Regional (Dannelly Field) Airport;US;AL;Montgomery;MGM
+20501;small_airport;Moultrie Municipal Airport;US;GA;Moultrie;MGR
+3682;medium_airport;Morgantown Municipal Airport Walter L. (Bill) Hart Field;US;WV;Morgantown;MGW
+20502;small_airport;Dayton-Wright Brothers Airport;US;OH;Dayton;MGY
+20503;small_airport;Mitchell Municipal Airport;US;SD;Mitchell;MHE
+3683;medium_airport;Manhattan Regional Airport;US;KS;Manhattan;MHK
+20504;small_airport;Marshall Memorial Municipal Airport;US;MO;Marshall;MHL
+20506;medium_airport;Sacramento Mather Airport;US;CA;Sacramento;MHR
+3684;medium_airport;Manchester-Boston Regional Airport;US;NH;Manchester;MHT
+20507;small_airport;Mojave Airport;US;CA;Mojave;MHV
+3685;large_airport;Miami International Airport;US;FL;Miami;MIA
+3686;medium_airport;Minot Air Force Base;US;ND;Minot;MIB
+3687;medium_airport;Delaware County Johnson Field;US;IN;Muncie;MIE
+20510;small_airport;Shafter Airport - Minter Field;US;CA;Shafter;MIT
+3688;medium_airport;Millville Municipal Airport;US;NJ;Millville;MIV
+20514;small_airport;Ocean County Airport;US;NJ;Toms River;MJX
+3689;medium_airport;Charles B. Wheeler Downtown Airport;US;MO;Kansas City;MKC
+3690;large_airport;General Mitchell International Airport;US;WI;Milwaukee;MKE
+3691;medium_airport;Muskegon County Airport;US;MI;Muskegon;MKG
+3692;medium_airport;McKellar-Sipes Regional Airport;US;TN;Jackson;MKL
+20521;small_airport;Marco Island Executive Airport;US;FL;Marco Island;MRK
+3693;medium_airport;Melbourne Orlando International Airport;US;FL;Melbourne;MLB
+3694;medium_airport;Mc Alester Regional Airport;US;OK;Mc Alester;MLC
+20523;small_airport;Millard Airport;US;NE;Omaha;MIQ
+3695;medium_airport;Quad City International Airport;US;IL;Moline;MLI
+3696;medium_airport;Miles City Airport - Frank Wiley Field;US;MT;Miles City;MLS
+3697;medium_airport;Monroe Regional Airport;US;LA;Monroe;MLU
+20527;small_airport;Mammoth Yosemite Airport;US;CA;Mammoth Lakes;MMH
+20528;small_airport;McMinn County Airport;US;TN;Athens;MMI
+20530;small_airport;Southwest Minnesota Regional Airport - Marshall/Ryan Field;US;MN;Marshall;MML
+20531;small_airport;Selfs Airport;US;MS;Marks;MMS
+20532;medium_airport;Mc Entire Joint National Guard Base;US;SC;Eastover;MMT
+3698;medium_airport;Morristown Municipal Airport;US;NJ;Morristown;MMU
+20535;small_airport;Menominee–Marinette Twin County Airport;US;MI;Menominee;MNM
+20536;small_airport;Marion Municipal Airport;US;OH;Marion;MNN
+3700;medium_airport;Mobile Regional Airport;US;AL;Mobile;MOB
+3701;medium_airport;Modesto City Co-Harry Sham Field;US;CA;Modesto;MOD
+3702;medium_airport;Minot International Airport;US;ND;Minot;MOT
+20547;small_airport;Mariposa Yosemite Airport;US;CA;Mariposa;RMY
+20548;small_airport;Petit Jean Park Airport;US;AR;Morrilton;MPJ
+20549;small_airport;Pocono Mountains Municipal Airport;US;PA;Mount Pocono;MPO
+20551;medium_airport;Edward F Knapp State Airport;US;VT;Barre/Montpelier;MPV
+20552;small_airport;Mount Pleasant Municipal Airport;US;IA;Mount Pleasant;MPZ
+20553;small_airport;Macomb Municipal Airport;US;IL;Macomb;MQB
+20554;small_airport;Dare County Regional Airport;US;NC;Manteo;MEO
+18758;small_airport;Chester County G O Carlson Airport;US;PA;Coatesville;CTH
+3703;medium_airport;Smyrna Airport;US;TN;Smyrna;MQY
+3704;medium_airport;Eastern WV Regional Airport/Shepherd Field;US;WV;Martinsburg;MRB
+20557;small_airport;Maury County Airport;US;TN;Columbia/Mount Pleasant;MRC
+20558;small_airport;Marfa Municipal Airport;US;TX;Marfa;MRF
+20561;small_airport;Foothills Regional Airport;US;NC;Morganton;MRN
+3705;medium_airport;Monterey Peninsula Airport;US;CA;Monterey;MRY
+3706;medium_airport;Northwest Alabama Regional Airport;US;AL;Muscle Shoals;MSL
+3707;medium_airport;Dane County Regional Truax Field;US;WI;Madison;MSN
+3708;medium_airport;Missoula International Airport;US;MT;Missoula;MSO
+3709;large_airport;Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field;US;MN;Minneapolis;MSP
+3710;medium_airport;Massena International Airport Richards Field;US;NY;Massena;MSS
+20563;small_airport;Sullivan County International Airport;US;NY;Monticello;MSV
+3711;large_airport;Louis Armstrong New Orleans International Airport;US;LA;New Orleans;MSY
+3712;medium_airport;Selfridge Air National Guard Base Airport;US;MI;Mount Clemens;MTC
+20564;medium_airport;The Florida Keys Marathon Airport;US;FL;Marathon;MTH
+20565;medium_airport;Montrose Regional Airport;US;CO;Montrose;MTJ
+3713;medium_airport;Martin State Airport;US;MD;Baltimore;MTN
+20566;small_airport;Coles County Memorial Airport;US;IL;Mattoon;MTO
+20567;small_airport;Montauk Airport;US;NY;Montauk;MTP
+20569;small_airport;Manitowoc County Airport;US;WI;Manitowoc;MTW
+3714;medium_airport;Muir Army Air Field (Fort Indiantown Gap) Airport;US;PA;Fort Indiantown Gap(Annville);MUI
+3715;medium_airport;Mountain Home Air Force Base;US;ID;Mountain Home;MUO
+20571;small_airport;Muscatine Municipal Airport;US;IA;Muscatine;MUT
+20572;small_airport;Monroe County Aeroplex Airport;US;AL;Monroeville;MVC
+20573;small_airport;Montevideo Chippewa County Airport;US;MN;Montevideo;MVE
+20575;small_airport;Morrisville-Stowe State Airport;US;VT;Morrisville;MVL
+20578;small_airport;Martha's Vineyard Airport;US;MA;Martha's Vineyard;MVY
+20579;small_airport;Veterans Airport of Southern Illinois;US;IL;Marion;MWA
+20580;small_airport;Lawrence J Timmerman Airport;US;WI;Milwaukee;MWC
+20581;medium_airport;Grant County International Airport;US;WA;Moses Lake;MWH
+20583;small_airport;Mineral Wells Regional Airport;US;TX;Mineral Wells;MWL
+20585;small_airport;Middletown Regional Airport;US;OH;Middletown;MWO
+20586;small_airport;Manila Municipal Airport;US;AR;Manila;MXA
+3716;medium_airport;Maxwell Air Force Base;US;AL;Montgomery;MXF
+20589;small_airport;Montgomery-Gibbs Executive Airport;US;CA;San Diego;MYF
+20591;medium_airport;McCall Municipal Airport;US;ID;McCall;MYL
+3717;medium_airport;Myrtle Beach International Airport;US;SC;Myrtle Beach;MYR
+3718;medium_airport;Yuba County Airport;US;CA;Marysville;MYV
+20594;small_airport;Pinal Airpark;US;AZ;Marana;MZJ
+20595;small_airport;Marion Municipal Airport;US;IN;Marion;MZZ
+20596;small_airport;Cortland County Chase Field;US;NY;Cortland;CTX
+20602;small_airport;Sidney Municipal Airport;US;NY;Sidney;SXY
+3720;medium_airport;New Orleans NAS JRB/Alvin Callender Field;US;LA;New Orleans;NBG
+20632;small_airport;Naval Outlying Field Barin;US;AL;Foley;NHX
+20633;small_airport;Dahlgren Naval Surface Warfare Center Airport;US;VA;Dahlgren;DGN
+3722;medium_airport;Lakehurst Maxfield Field Airport;US;NJ;Lakehurst;NEL
+20635;small_airport;Whitehouse Naval Outlying Field;US;FL;Jacksonville;NEN
+3723;medium_airport;Lakefront Airport;US;LA;New Orleans;NEW
+3725;medium_airport;Fallon Naval Air Station;US;NV;Fallon;NFL
+20639;medium_airport;NAS Fort Worth JRB / Carswell Field;US;TX;Fort Worth;FWH
+3727;medium_airport;Norfolk Naval Station (Chambers Field);US;VA;Norfolk;NGU
+3728;medium_airport;Patuxent River Naval Air Station (Trapnell Field);US;MD;Patuxent River;NHK
+3729;medium_airport;Brunswick Executive Airport;US;ME;Brunswick;NHZ
+3730;medium_airport;Jacksonville Naval Air Station (Towers Field);US;FL;Jacksonville;NIP
+3731;medium_airport;El Centro NAF Airport (Vraciu Field);US;CA;El Centro;NJK
+3733;medium_airport;Miramar Marine Corps Air Station - Mitscher Field;US;CA;San Diego;NKX
+20647;medium_airport;Lemoore Naval Air Station (Reeves Field) Airport;US;CA;Lemoore;NLC
+3735;medium_airport;Naval Air Station Pensacola Forrest Sherman Field;US;FL;Pensacola;NPA
+3736;medium_airport;Millington-Memphis Airport;US;TN;Millington;NQA
+3737;medium_airport;Kingsville Naval Air Station;US;TX;Kingsville;NQI
+3738;medium_airport;Naval Air Station Key West/Boca Chica Field;US;FL;Key West;NQX
+20652;medium_airport;Naval Station Mayport / Admiral David L McDonald Field;US;FL;Jacksonville;NRB
+20655;small_airport;Naval Outlying Field Imperial Beach (Ream Field);US;CA;Imperial Beach;NRS
+20656;medium_airport;Whiting Field Naval Air Station - North;US;FL;Milton;NSE
+3739;medium_airport;Point Mugu Naval Air Station (Naval Base Ventura Co);US;CA;Point Mugu;NTD
+3740;medium_airport;Oceana Naval Air Station;US;VA;Virginia Beach;NTU
+3741;medium_airport;Moffett Federal Airfield;US;CA;Mountain View;NUQ
+20661;medium_airport;Whidbey Island Naval Air Station (Ault Field);US;WA;Oak Harbor;NUW
+3961;medium_airport;Yuma International Airport / Marine Corps Air Station Yuma;US;AZ;Yuma;YUM
+3743;medium_airport;North Island Naval Air Station-Halsey Field;US;CA;San Diego;NZY
+20671;small_airport;Nervino Airport;US;CA;Beckwourth;NVN
+20679;small_airport;Columbia Airport;US;CA;Columbia;COA
+20682;small_airport;Oakdale Airport;US;CA;Oakdale;ODC
+20689;small_airport;Yerington Municipal Airport;US;NV;Yerington;EYR
+20709;medium_airport;Albert J Ellis Airport;US;NC;Richlands;OAJ
+3744;large_airport;Metropolitan Oakland International Airport;US;CA;Oakland;OAK
+20710;small_airport;Marina Municipal Airport;US;CA;Marina;OAR
+20711;small_airport;Okeechobee County Airport;US;FL;Okeechobee;OBE
+20712;small_airport;Ocala International Airport - Jim Taylor Field;US;FL;Ocala;OCF
+20713;small_airport;A L Mangham Jr. Regional Airport;US;TX;Nacogdoches;OCH
+20715;small_airport;Warren Field;US;NC;Washington;OCW
+20718;small_airport;O'Neal Airport;US;IL;Lawrenceville;OEA
+20721;small_airport;L O Simenstad Municipal Airport;US;WI;Osceola;OEO
+20722;medium_airport;Karl Stefan Memorial Airport;US;NE;Norfolk;OFK
+20724;small_airport;Searle Field;US;NE;Ogallala;OGA
+20725;medium_airport;Orangeburg Municipal Airport;US;SC;Orangeburg;OGB
+3746;medium_airport;Ogden Hinckley Airport;US;UT;Ogden;OGD
+20727;medium_airport;Ogdensburg International Airport;US;NY;Ogdensburg;OGS
+20728;small_airport;Lt Warren Eaton Airport;US;NY;Norwich;OIC
+20731;small_airport;Johnson County Executive Airport;US;KS;Olathe;OJC
+20732;small_airport;Oceanside Municipal Airport;US;CA;Oceanside;OCN
+3747;medium_airport;Will Rogers World Airport;US;OK;Oklahoma City;OKC
+19035;small_airport;AJ Eisenberg Airport;US;WA;Oak Harbor;ODW
+20733;small_airport;Kokomo Municipal Airport;US;IN;Kokomo;OKK
+20734;small_airport;Okmulgee Regional Airport;US;OK;Okmulgee;OKM
+20735;small_airport;Garden County Airport/King Rhiley Field;US;NE;Oshkosh;OKS
+20736;small_airport;Winchester Regional Airport;US;VA;Winchester;WGO
+3748;small_airport;Dewitt Field - Old Town Municipal Airport;US;ME;Old Town;OLD
+20739;medium_airport;L M Clayton Airport;US;MT;Wolf Point;OLF
+3749;medium_airport;Olympia Regional Airport;US;WA;Olympia;OLM
+20741;medium_airport;Nogales International Airport;US;AZ;Nogales;OLS
+20742;small_airport;Olive Branch Airport;US;MS;Olive Branch;OLV
+3751;large_airport;Eppley Airfield;US;NE;Omaha;OMA
+20746;small_airport;Omak Airport;US;WA;Omak;OMK
+20749;small_airport;The O'Neill Municipal John L Baker Field;US;NE;O'Neill;ONL
+20751;medium_airport;Ontario Municipal Airport;US;OR;Oregon;ONO
+20752;medium_airport;Newport Municipal Airport;US;OR;Newport;ONP
+3752;large_airport;Ontario International Airport;US;CA;Ontario;ONT
+20757;medium_airport;Miami-Opa Locka Executive Airport;US;FL;Miami;OPF
+3753;medium_airport;Quonset State Airport;US;RI;North Kingstown;NCO
+3754;large_airport;Chicago O'Hare International Airport;US;IL;Chicago;ORD
+3755;medium_airport;Norfolk International Airport;US;VA;Norfolk;ORF
+3756;medium_airport;Worcester Regional Airport;US;MA;Worcester;ORH
+20765;small_airport;Orlando Executive Airport;US;FL;Orlando;ORL
+23952;small_airport;Orcas Island Airport;US;WA;Eastsound;ESD
+20767;small_airport;Oscoda Wurtsmith Airport;US;MI;Oscoda;OSC
+3757;medium_airport;Wittman Regional Airport;US;WI;Oshkosh;OSH
+3758;medium_airport;The Ohio State University Airport - Don Scott Field;US;OH;Columbus;OSU
+3759;medium_airport;Southwest Oregon Regional Airport;US;OR;North Bend;OTH
+3760;medium_airport;Ottumwa Regional Airport;US;IA;Ottumwa;OTM
+20771;small_airport;University of Oklahoma Westheimer Airport;US;OK;Norman;OUN
+20772;small_airport;Oroville Municipal Airport;US;CA;Oroville;OVE
+20776;small_airport;Owatonna Degner Regional Airport;US;MN;Owatonna;OWA
+3761;medium_airport;Owensboro Daviess County Airport;US;KY;Owensboro;OWB
+20777;medium_airport;Norwood Memorial Airport;US;MA;Norwood;OWD
+20779;small_airport;Central Maine/Norridgewock Airport;US;ME;Norridgewock;OWK
+20781;small_airport;Ocean City Municipal Airport;US;MD;Ocean City;OCE
+20782;small_airport;Waterbury Oxford Airport;US;CT;Oxford;OXC
+20783;small_airport;Miami University Airport;US;OH;Oxford;OXD
+20785;medium_airport;Oxnard Airport;US;CA;Oxnard;OXR
+20788;small_airport;St Marys Municipal Airport;US;PA;St Marys;STQ
+20789;small_airport;Ozona Municipal Airport;US;TX;Ozona;OZA
+3762;medium_airport;Cairns AAF (Fort Rucker) Air Field;US;AL;Fort Rucker/Ozark;OZR
+20793;small_airport;Bisbee Municipal Airport;US;AZ;Bisbee;BSQ
+20795;small_airport;Polacca Airport;US;AZ;Polacca;PXL
+20796;small_airport;San Carlos Apache Airport;US;AZ;Globe;GLB
+20797;small_airport;Holbrook Municipal Airport;US;AZ;Holbrook;HBK
+20802;small_airport;Cochise County Airport;US;AZ;Willcox;CWX
+3763;medium_airport;Seattle Paine Field International Airport;US;WA;Everett;PAE
+3764;medium_airport;Barkley Regional Airport;US;KY;Paducah;PAH
+3765;medium_airport;Tyndall Air Force Base;US;FL;Panama City;PAM
+20804;small_airport;Payson Airport;US;AZ;Payson;PJB
+20805;small_airport;Palo Alto Airport of Santa Clara County;US;CA;Palo Alto;PAO
+20807;medium_airport;Pine Bluff Regional Airport, Grider Field;US;AR;Pine Bluff;PBF
+20808;medium_airport;Plattsburgh International Airport;US;NY;Plattsburgh;PBG
+3766;large_airport;Palm Beach International Airport;US;FL;West Palm Beach;PBI
+20810;small_airport;Pike County-Hatcher Field;US;KY;Pikeville;PVL
+20814;small_airport;Prairie Du Chien Municipal Airport;US;WI;Prairie Du Chien;PCD
+3767;medium_airport;DeKalb Peachtree Airport;US;GA;Atlanta;PDK
+20815;medium_airport;Eastern Oregon Regional Airport at Pendleton;US;OR;Pendleton;PDT
+3768;large_airport;Portland International Airport;US;OR;Portland;PDX
+20818;small_airport;Pecos Municipal Airport;US;TX;Pecos;PEQ
+20821;medium_airport;Page Municipal Airport;US;AZ;Page;PGA
+20822;medium_airport;Charlotte County Airport;US;FL;Punta Gorda;PGD
+20823;small_airport;Kirk Field;US;AR;Paragould;PGR
+20824;medium_airport;Pitt Greenville Airport;US;NC;Greenville;PGV
+20826;small_airport;Harry Clever Field;US;OH;New Philadelphia;PHD
+3770;medium_airport;Newport News Williamsburg International Airport;US;VA;Newport News;PHF
+20828;small_airport;Robert F Swinnie Airport;US;SC;Andrews;ADR
+20829;small_airport;Palm Beach County Glades Airport;US;FL;Pahokee;PHK
+3771;large_airport;Philadelphia International Airport;US;PA;Philadelphia;PHL
+20830;small_airport;St Clair County International Airport;US;MI;Port Huron;PHN
+20831;small_airport;Philip Airport;US;SD;Philip;PHP
+20832;small_airport;Henry County Airport;US;TN;Paris;PHT
+3772;large_airport;Phoenix Sky Harbor International Airport;US;AZ;Phoenix;PHX
+3773;medium_airport;General Wayne A. Downing Peoria International Airport;US;IL;Peoria;PIA
+3774;medium_airport;Hattiesburg Laurel Regional Airport;US;MS;Moselle;PIB
+3775;medium_airport;St. Petersburg Clearwater International Airport;US;FL;Pinellas Park;PIE
+3776;medium_airport;Pocatello Regional Airport;US;ID;Pocatello;PIH
+20834;small_airport;Harris County Airport;US;GA;Pine Mountain;PIM
+3777;medium_airport;Pierre Regional Airport;US;SD;Pierre;PIR
+3778;large_airport;Pittsburgh International Airport;US;PA;Pittsburgh;PIT
+3779;medium_airport;Mid Ohio Valley Regional Airport;US;WV;Parkersburg (Williamstown);PKB
+20836;small_airport;Park Rapids Municipal Konshok Field;US;MN;Park Rapids;PKD
+20837;small_airport;Park Falls Municipal Airport;US;WI;Park Falls;PKF
+20840;small_airport;M. Graham Clark Downtown Airport;US;MO;Branson / Hollister;PLK
+3781;medium_airport;Pellston Regional Airport of Emmet County Airport;US;MI;Pellston;PLN
+20841;small_airport;St Clair County Airport;US;AL;Pell City;PLR
+20842;small_airport;Pembina Municipal Airport;US;ND;Pembina;PMB
+3782;medium_airport;Palmdale Regional Airport / USAF Plant 42 Airport;US;CA;Palmdale;PMD
+20843;small_airport;Greater Portsmouth Regional Airport;US;OH;Portsmouth;PMH
+20844;small_airport;Pompano Beach Airpark;US;FL;Pompano Beach;PPM
+20848;medium_airport;Ralph Wenz Field;US;WY;Pinedale;PWY
+20849;medium_airport;Ponca City Regional Airport;US;OK;Ponca City;PNC
+20850;medium_airport;Northeast Philadelphia Airport;US;PA;Philadelphia;PNE
+20852;small_airport;Princeton Municipal Airport;US;ME;Princeton;PNN
+3783;medium_airport;Pensacola International Airport;US;FL;Pensacola;PNS
+3784;medium_airport;Pope Field;US;NC;Fort Bragg;POB
+20854;small_airport;Brackett Field;US;CA;La Verne;POC
+3785;medium_airport;Polk Army Air Field;US;LA;Fort Polk;POE
+20855;small_airport;Poplar Bluff Municipal Airport;US;MO;Poplar Bluff;POF
+3786;medium_airport;Dutchess County Airport;US;NY;Poughkeepsie;POU
+20857;small_airport;Powell Municipal Airport;US;WY;Powell;POY
+20858;small_airport;Perry Lefors Field;US;TX;Pampa;PPA
+20859;small_airport;Tri-City Airport;US;KS;Parsons;PPF
+20860;small_airport;La Porte Municipal Airport;US;IN;La Porte;LPO
+3787;medium_airport;Presque Isle International Airport;US;ME;Presque Isle;PQI
+20862;small_airport;Trent Lott International Airport;US;MS;Pascagoula;PGL
+3788;medium_airport;Paso Robles Municipal Airport;US;CA;Paso Robles;PRB
+3789;medium_airport;Prescott International Airport - Ernest A. Love Field;US;AZ;Prescott;PRC
+20867;small_airport;Perry Municipal Airport;US;IA;Perry;PRO
+3790;medium_airport;Cox Field;US;TX;Paris;PRX
+20870;medium_airport;Tri Cities Airport;US;WA;Pasco;PSC
+20871;small_airport;Pittsfield Municipal Airport;US;MA;Pittsfield;PSF
+20872;small_airport;New River Valley Airport;US;VA;Dublin;PSK
+3791;medium_airport;Portsmouth International at Pease Airport;US;NH;Portsmouth;PSM
+20873;small_airport;Palestine Municipal Airport;US;TX;Palestine;PSN
+18627;small_airport;Stevens Field;US;CO;Pagosa Springs;PGO
+3792;medium_airport;Palm Springs International Airport;US;CA;Palm Springs;PSP
+20874;small_airport;Palacios Municipal Airport;US;TX;Palacios;PSX
+20875;small_airport;Dinwiddie County Airport;US;VA;Petersburg;PTB
+3793;medium_airport;Oakland County International Airport;US;MI;Pontiac;PTK
+20877;small_airport;Harry P Williams Memorial Airport;US;LA;Patterson;PTN
+20879;small_airport;Pratt Regional Airport;US;KS;Pratt;PTT
+20880;small_airport;Porterville Municipal Airport;US;CA;Porterville;PTV
+20881;small_airport;Heritage Field;US;PA;Pottstown;PTW
+3794;medium_airport;Pueblo Memorial Airport;US;CO;Pueblo;PUB
+20882;small_airport;Carbon County Regional Airport / Buck Davis Field;US;UT;Price;PUC
+20883;medium_airport;Pullman Moscow Regional Airport;US;WA;Pullman/Moscow;PUW
+20885;small_airport;Provincetown Municipal Airport;US;MA;Provincetown;PVC
+3795;large_airport;Theodore Francis Green State Airport;US;RI;Warwick;PVD
+20887;small_airport;Placerville Airport;US;CA;Placerville;PVF
+20890;medium_airport;Provo-Utah Lake International Airport;US;UT;Provo;PVU
+20891;small_airport;Hale County Airport;US;TX;Plainview;PVW
+20892;small_airport;Wiley Post Airport;US;OK;Oklahoma City;PWA
+20894;small_airport;Sher-Wood Airport;US;MT;Plentywood;PWD
+20896;medium_airport;Chicago Executive Airport;US;IL;Chicago/Prospect Heights/Wheeling;PWK
+3796;large_airport;Portland International Jetport;US;ME;Portland;PWM
+3797;medium_airport;Bremerton National Airport;US;WA;Bremerton;PWT
+20900;small_airport;Plymouth Municipal Airport;US;MA;Plymouth;PYM
+511856;small_airport;Aban Uqua Airportse;US;ID;KXXQO City;QKA
+20907;small_airport;John H Batten Airport;US;WI;Racine;RAC
+3837;medium_airport;Riverside Municipal Airport;US;CA;Riverside;RAL
+3838;medium_airport;Rapid City Regional Airport;US;SD;Rapid City;RAP
+20910;small_airport;Dallas Executive Airport;US;TX;Dallas;RBD
+20912;small_airport;Roseburg Regional Airport;US;OR;Roseburg;RBG
+3839;medium_airport;Red Bluff Municipal Airport;US;CA;Red Bluff;RBL
+20915;small_airport;Lowcountry Regional Airport;US;SC;Walterboro;RBW
+3840;medium_airport;Ellsworth Air Force Base;US;SD;Rapid City;RCA
+20916;small_airport;H H Coffield Regional Airport;US;TX;Rockdale;RCK
+20917;small_airport;Fulton County Airport;US;IN;Rochester;RCR
+20918;small_airport;Nartron Field;US;MI;Reed City;RCT
+3841;medium_airport;Redding Municipal Airport;US;CA;Redding;RDD
+3842;medium_airport;Reading Regional Airport (Carl A Spaatz Field);US;PA;Reading;RDG
+3843;medium_airport;Roberts Field;US;OR;Redmond;RDM
+20922;medium_airport;Grand Forks Air Force Base;US;ND;Grand Forks;RDR
+3844;large_airport;Raleigh Durham International Airport;US;NC;Raleigh/Durham;RDU
+20924;small_airport;Rome State Airport;US;OR;Rome;REO
+3845;medium_airport;Chicago Rockford International Airport;US;IL;Chicago/Rockford;RFD
+20925;small_airport;Rooke Field;US;TX;Refugio;RFG
+3846;medium_airport;Rhinelander Oneida County Airport;US;WI;Rhinelander;RHI
+20928;small_airport;Reid-Hillview Airport of Santa Clara County;US;CA;San Jose;RHV
+3847;large_airport;Richmond International Airport;US;VA;Richmond;RIC
+20931;medium_airport;Garfield County Regional Airport;US;CO;Rifle;RIL
+3849;medium_airport;March Air Reserve Base;US;CA;Riverside;RIV
+20933;medium_airport;Central Wyoming Regional Airport;US;WY;Riverton;RIW
+20935;small_airport;Knox County Regional Airport;US;ME;Rockland;RKD
+20936;small_airport;Aransas County Airport;US;TX;Rockport;RKP
+3850;medium_airport;Southwest Wyoming Regional Airport;US;WY;Rock Springs;RKS
+20938;small_airport;Rockwood Municipal Airport;US;TN;Rockwood;RKW
+20940;medium_airport;Griffiss International Airport;US;NY;Rome;RME
+3851;medium_airport;Richard B Russell Airport;US;GA;Rome;RMG
+20943;small_airport;Warren County Memorial Airport;US;TN;Mc Minnville;RNC
+3852;medium_airport;Randolph Air Force Base;US;TX;Universal City;RND
+3853;large_airport;Reno Tahoe International Airport;US;NV;Reno;RNO
+20947;small_airport;Renton Municipal Airport;US;WA;Renton;RNT
+3854;medium_airport;Roanoke–Blacksburg Regional Airport;US;VA;Roanoke;ROA
+3855;medium_airport;Frederick Douglass Greater Rochester International Airport;US;NY;Rochester;ROC
+20949;small_airport;Rogers Municipal Airport-Carter Field;US;AR;Rogers;ROG
+3856;medium_airport;Roswell Air Center Airport;US;NM;Roswell;ROW
+20951;small_airport;Roseau Municipal Rudy Billberg Field;US;MN;Roseau;ROX
+20953;small_airport;Rice Lake Regional Airport - Carl's Field;US;WI;Rice Lake;RIE
+20956;small_airport;Roundup Airport;US;MT;Roundup;RPX
+20957;small_airport;Roben Hood Airport;US;MI;Big Rapids;WBR
+24364;small_airport;El Reno Regional Airport;US;OK;El Reno;RQO
+20959;small_airport;Merrill Municipal Airport;US;WI;Merrill;RRL
+20961;small_airport;Warroad International Memorial Airport;US;MN;Warroad;RRT
+20962;medium_airport;Russell Municipal Airport;US;KS;Russell;RSL
+20963;small_airport;Ruston Regional Airport;US;LA;Ruston;RSN
+3857;medium_airport;Rochester International Airport;US;MN;Rochester;RST
+3858;large_airport;Southwest Florida International Airport;US;FL;Fort Myers;RSW
+20965;small_airport;Raton Municipal Airport / Crews Field;US;NM;Raton;RTN
+20968;small_airport;Mid-Carolina Regional Airport;US;NC;Salisbury;SRW
+3859;medium_airport;Rutland - Southern Vermont Regional Airport;US;VT;Rutland;RUT
+20970;small_airport;Mifflin County Airport;US;PA;Reedsville;RED
+20972;medium_airport;Richard Lloyd Jones Jr Airport;US;OK;Tulsa;RVS
+20973;medium_airport;Redwood Falls Municipal Airport;US;MN;Redwood Falls;RWF
+3860;medium_airport;Rocky Mount Wilson Regional Airport;US;NC;Rocky Mount;RWI
+20974;medium_airport;Rawlins Municipal Airport/Harvey Field;US;WY;Rawlins;RWL
+20977;small_airport;Rexburg Madison County Airport;US;ID;Rexburg;RXE
+20982;small_airport;Jasper County Airport;US;IN;Rensselaer;RNZ
+20987;small_airport;Ashland Municipal Airport-Sumner Parker Field;US;OR;Ashland;AHM
+20988;small_airport;Bandon State Airport;US;OR;Bandon;BDY
+20994;small_airport;Sunriver Airport;US;OR;Sunriver;SUO
+21001;small_airport;Madras Municipal Airport;US;OR;Madras;MDJ
+21004;small_airport;Prineville Airport;US;OR;Prineville;PRZ
+21022;small_airport;Idaho County Airport;US;ID;Grangeville;IDH
+21031;small_airport;Shively Field;US;WY;Saratoga;SAA
+3861;medium_airport;Sacramento Executive Airport;US;CA;Sacramento;SAC
+21032;small_airport;Safford Regional Airport;US;AZ;Safford;SAD
+21033;medium_airport;Santa Fe Municipal Airport;US;NM;Santa Fe;SAF
+3862;large_airport;San Diego International Airport;US;CA;San Diego;SAN
+21034;small_airport;Sparta Community Airport - Hunter Field;US;IL;Sparta;SAR
+3863;large_airport;San Antonio International Airport;US;TX;San Antonio;SAT
+3864;large_airport;Savannah Hilton Head International Airport;US;GA;Savannah;SAV
+3865;medium_airport;Marquette/Sawyer International Airport;US;MI;Gwinn;MQT
+3866;medium_airport;Santa Barbara Municipal Airport;US;CA;Santa Barbara;SBA
+3867;medium_airport;San Bernardino International Airport;US;CA;San Bernardino;SBD
+21036;small_airport;Sheboygan County Memorial Airport;US;WI;Sheboygan;SBM
+3868;medium_airport;South Bend Regional Airport;US;IN;South Bend;SBN
+3869;medium_airport;San Luis County Regional Airport;US;CA;San Luis Obispo;SBP
+21038;small_airport;Steamboat Springs Bob Adams Field;US;CO;Steamboat Springs;SBS
+21040;small_airport;Shelby Airport;US;MT;Shelby;SBX
+3870;medium_airport;Salisbury Ocean City Wicomico Regional Airport;US;MD;Salisbury;SBY
+21041;small_airport;Scribner State Airport;US;NE;Scribner;SCB
+3871;medium_airport;Schenectady County Airport;US;NY;Schenectady;SCH
+3872;medium_airport;Stockton Metropolitan Airport;US;CA;Stockton;SCK
+3873;large_airport;Louisville Muhammad Ali International Airport;US;KY;Louisville;SDF
+21045;small_airport;Scottsdale Airport;US;AZ;Scottsdale;SCF
+3874;medium_airport;Brown Field Municipal Airport;US;CA;San Diego;SDM
+21046;medium_airport;Sidney - Richland Regional Airport;US;MT;Sidney;SDY
+3875;large_airport;Seattle–Tacoma International Airport;US;WA;Seattle;SEA
+21047;small_airport;Gillespie Field;US;CA;San Diego/El Cajon;SEE
+21048;small_airport;Sebring Regional Airport;US;FL;Sebring;SEF
+21049;small_airport;Penn Valley Airport;US;PA;Selinsgrove;SEG
+21050;small_airport;Craig Field;US;AL;Selma;SEM
+21051;small_airport;Stephenville Clark Regional Airport;US;TX;Stephenville;SEP
+21053;small_airport;Freeman Municipal Airport;US;IN;Seymour;SER
+21055;small_airport;Sedona Airport;US;AZ;Sedona;SDX
+3876;large_airport;Orlando Sanford International Airport;US;FL;Orlando;SFB
+3877;medium_airport;Felts Field;US;WA;Spokane;SFF
+21057;small_airport;Sanford Seacoast Regional Airport;US;ME;Sanford;SFM
+3878;large_airport;San Francisco International Airport;US;CA;San Francisco;SFO
+21060;small_airport;North Central State Airport;US;RI;Pawtucket;SFZ
+3879;medium_airport;Springfield Branson National Airport;US;MO;Springfield;SGF
+3880;medium_airport;Springfield-Beckley Municipal Airport;US;OH;Springfield;SGH
+21061;medium_airport;Northeast Florida Regional Airport;US;FL;St Augustine;UST
+21062;medium_airport;Sugar Land Regional Airport;US;TX;Houston;SGR
+21064;small_airport;Stuttgart Municipal Airport / Carl Humphrey Field;US;AR;Stuttgart;SGT
+21065;medium_airport;St George Regional Airport;US;UT;St George;SGU
+21066;medium_airport;Shenandoah Valley Regional Airport;US;VA;Weyers Cave;SHD
+21068;small_airport;Sanderson Field;US;WA;Shelton;SHN
+3881;medium_airport;Sheridan County Airport;US;WY;Sheridan;SHR
+3882;medium_airport;Shreveport Regional Airport;US;LA;Shreveport;SHV
+21070;small_airport;Sikeston Memorial Municipal Airport;US;MO;Sikeston;SIK
+21071;small_airport;Sullivan County Airport;US;IN;Sullivan;SIV
+3883;large_airport;Norman Y. Mineta San Jose International Airport;US;CA;San Jose;SJC
+21073;small_airport;St Johns Industrial Air Park;US;AZ;St Johns;SJN
+3884;medium_airport;San Angelo Regional Mathis Field;US;TX;San Angelo;SJT
+3885;medium_airport;Fairchild Air Force Base;US;WA;Spokane;SKA
+3886;medium_airport;Lackland Air Force Base;US;TX;San Antonio;SKF
+21076;small_airport;Taos Regional Airport;US;NM;Taos;TSM
+21078;small_airport;Storm Lake Municipal Airport;US;IA;Storm Lake;SLB
+3887;large_airport;Salt Lake City International Airport;US;UT;Salt Lake City;SLC
+3888;medium_airport;Salem Municipal Airport/McNary Field;US;OR;Salem;SLE
+21079;small_airport;Smith Field;US;AR;Siloam Springs;SLG
+3890;medium_airport;Adirondack Regional Airport;US;NY;Saranac Lake;SLK
+3891;medium_airport;Salina Municipal Airport;US;KS;Salina;SLN
+21082;small_airport;Salem–Leckrone Airport;US;IL;Salem;SLO
+21083;small_airport;Sulphur Springs Municipal Airport;US;TX;Sulphur Springs;SLR
+21084;small_airport;Smith Field;US;IN;Fort Wayne;SMD
+21085;medium_airport;Lake Cumberland Regional Airport;US;KY;Somerset;SME
+3892;large_airport;Sacramento International Airport;US;CA;Sacramento;SMF
+21086;medium_airport;Lemhi County Airport;US;ID;Salmon;SMN
+21087;medium_airport;Santa Monica Municipal Airport;US;CA;Santa Monica;SMO
+21089;small_airport;Sumter Airport;US;SC;Sumter;SUM
+3893;medium_airport;Santa Maria Public Airport Captain G Allan Hancock Field;US;CA;Santa Maria;SMX
+3894;large_airport;John Wayne Orange County International Airport;US;CA;Santa Ana;SNA
+21092;small_airport;Winston Field;US;TX;Snyder;SNK
+21093;small_airport;Shawnee Regional Airport;US;OK;Shawnee;SNL
+3895;medium_airport;Salinas Municipal Airport;US;CA;Salinas;SNS
+21094;medium_airport;Sidney Municipal Airport Lloyd W Carr Field;US;NE;Sidney;SNY
+21096;small_airport;Moore County Airport;US;NC;Carthage;SOP
+21097;small_airport;Show Low Regional Airport;US;AZ;Show Low;SOW
+3896;small_airport;Spartanburg Downtown Memorial Airport;US;SC;Spartanburg;SPA
+21100;small_airport;Black Hills Airport-Clyde Ice Field;US;SD;Spearfish;SPF
+21101;small_airport;Albert Whitted Airport;US;FL;St Petersburg;SPG
+3897;medium_airport;Abraham Lincoln Capital Airport;US;IL;Springfield;SPI
+3898;medium_airport;Sheppard Air Force Base / Wichita Falls Municipal Airport;US;TX;Wichita Falls;SPS
+21103;small_airport;Spencer Municipal Airport;US;IA;Spencer;SPW
+21104;small_airport;Whiteside County Airport - Joseph H Bittorf Field;US;IL;Rock Falls;SQI
+21105;small_airport;San Carlos Airport;US;CA;San Carlos;SQL
+3899;medium_airport;Sarasota Bradenton International Airport;US;FL;Sarasota/Bradenton;SRQ
+3900;medium_airport;Sierra Blanca Regional Airport;US;NM;Alto;RUI
+3901;medium_airport;Shaw Air Force Base;US;SC;Sumter;SSC
+21109;medium_airport;Stinson Municipal Airport;US;TX;San Antonio;SSF
+3902;medium_airport;St Simons Island Airport;US;GA;St Simons Island;SSI
+3903;medium_airport;Saint Cloud Regional Airport;US;MN;Saint Cloud;STC
+21111;small_airport;Stevens Point Municipal Airport;US;WI;Stevens Point;STE
+3904;medium_airport;Rosecrans Memorial Airport;US;MO;St Joseph;STJ
+21113;small_airport;Sterling Municipal Airport;US;CO;Sterling;STK
+3905;large_airport;St Louis Lambert International Airport;US;MO;St Louis;STL
+3906;medium_airport;St Paul Downtown Holman Field;US;MN;St Paul;STP
+21114;medium_airport;Charles M. Schulz Sonoma County Airport;US;CA;Santa Rosa;STS
+21115;small_airport;Witham Field;US;FL;Stuart;SUA
+21116;small_airport;Stroud Municipal Airport;US;OK;Stroud;SUD
+21117;small_airport;Door County Cherryland Airport;US;WI;Sturgeon Bay;SUE
+21118;medium_airport;Friedman Memorial Airport;US;ID;Hailey;SUN
+3907;medium_airport;Spirit of St Louis Airport;US;MO;St Louis;SUS
+3908;medium_airport;Travis Air Force Base;US;CA;Fairfield;SUU
+21120;small_airport;Richard I Bong Memorial Airport;US;WI;Superior;SUW
+3909;medium_airport;Sioux Gateway Airport / Brigadier General Bud Day Field;US;IA;Sioux City;SUX
+21121;small_airport;Grant County Airport;US;NM;Silver City;SVC
+21122;small_airport;Susanville Municipal Airport;US;CA;Susanville;SVE
+21123;small_airport;Statesville Regional Airport;US;NC;Statesville;SVH
+3910;medium_airport;Hunter Army Air Field;US;GA;Savannah;SVN
+3911;medium_airport;New York Stewart International Airport;US;NY;Newburgh;SWF
+3912;medium_airport;Stillwater Regional Airport;US;OK;Stillwater;SWO
+21126;small_airport;Avenger Field;US;TX;Sweetwater;SWW
+21129;small_airport;Bomar Field Shelbyville Municipal Airport;US;TN;Shelbyville;SYI
+3913;large_airport;Syracuse Hancock International Airport;US;NY;Syracuse;SYR
+21130;small_airport;Sylvester Airport;US;GA;Sylvester;SYV
+3914;medium_airport;Whiteman Air Force Base;US;MO;Knob Noster;SZL
+21134;small_airport;Tuba City Airport;US;AZ;Tuba City;TBC
+21176;small_airport;Perry Stokes Airport;US;CO;Trinidad;TAD
+3915;medium_airport;Waynesville-St. Robert Regional Airport-Forney Field;US;MO;Fort Leonard Wood;TBN
+21180;small_airport;Statesboro Bulloch County Airport;US;GA;Statesboro;TBR
+3916;medium_airport;Tucumcari Municipal Airport;US;NM;Tucumcari;TCC
+3917;medium_airport;Tuscaloosa National Airport;US;AL;Tuscaloosa;TCL
+3918;medium_airport;McChord Air Force Base;US;WA;Tacoma;TCM
+3919;medium_airport;Truth or Consequences Municipal Airport;US;NM;Truth or Consequences;TCS
+21183;small_airport;Ed Carlson Memorial Field South Lewis County Airport;US;WA;Toledo;TDO
+21184;small_airport;Tradewind Airport;US;TX;Amarillo;TDW
+21185;small_airport;Toledo Executive Airport;US;OH;Toledo;TDZ
+3920;medium_airport;Teterboro Airport;US;NJ;Teterboro;TEB
+21188;small_airport;Telluride Regional Airport;US;CO;Telluride;TEX
+21191;small_airport;Tullahoma Regional Arpt/Wm Northern Field;US;TN;Tullahoma;THA
+21192;small_airport;Thompson Falls Airport;US;MT;Thompson Falls;THM
+21194;small_airport;York Airport;US;PA;Thomasville;THV
+3921;medium_airport;Tinker Air Force Base;US;OK;Oklahoma City;TIK
+3922;medium_airport;Tacoma Narrows Airport;US;WA;Tacoma;TIW
+3923;medium_airport;Space Coast Regional Airport;US;FL;Titusville;TIX
+21201;small_airport;Kennett Memorial Airport;US;MO;Kennett;KNT
+3924;medium_airport;Tallahassee Regional Airport;US;FL;Tallahassee;TLH
+21202;small_airport;Mefford Field;US;CA;Tulare;TLR
+21203;small_airport;Henry Tift Myers Airport;US;GA;Tifton;TMA
+21204;medium_airport;Miami Executive Airport;US;FL;Miami;TMB
+24915;small_airport;Tillamook Airport;US;OR;Tillamook;OTK
+21205;small_airport;Twentynine Palms Airport;US;CA;Twentynine Palms;TNP
+21206;small_airport;Dade Collier Training and Transition Airport;US;FL;Miami;TNT
+21207;small_airport;Newton Municipal Airport;US;IA;Newton;TNU
+21208;small_airport;Tonopah Test Range Airport;US;NV;Tonopah;XSD
+21209;small_airport;Zamperini Field;US;CA;Torrance;TOA
+21211;small_airport;Toccoa Airport - R.G. Letourneau Field;US;GA;Toccoa;TOC
+21212;medium_airport;Troy Municipal Airport at N Kenneth Campbell Field;US;AL;Troy;TOI
+3925;medium_airport;Eugene F. Kranz Toledo Express Airport;US;OH;Toledo;TOL
+21213;medium_airport;Philip Billard Municipal Airport;US;KS;Topeka;TOP
+21214;small_airport;Torrington Municipal Airport;US;WY;Torrington;TOR
+3926;large_airport;Tampa International Airport;US;FL;Tampa;TPA
+21215;small_airport;Peter O Knight Airport;US;FL;Tampa;TPF
+21216;medium_airport;Tonopah Airport;US;NV;Tonopah;TPH
+3927;medium_airport;Draughon Miller Central Texas Regional Airport;US;TX;Temple;TPL
+3928;medium_airport;Tri-Cities Regional TN/VA Airport;US;TN;Blountville;TRI
+21220;medium_airport;Truckee Tahoe Airport;US;CA;Truckee;TKF
+21221;small_airport;Terrell Municipal Airport;US;TX;Terrell;TRL
+21222;medium_airport;Jacqueline Cochran Regional Airport;US;CA;Palm Springs;TRM
+21226;small_airport;Tehachapi Municipal Airport;US;CA;Tehachapi;TSP
+21228;medium_airport;Portland Troutdale Airport;US;OR;Portland;TTD
+3929;medium_airport;Trenton Mercer Airport;US;NJ;Trenton;TTN
+3930;large_airport;Tulsa International Airport;US;OK;Tulsa;TUL
+3931;medium_airport;Tupelo Regional Airport;US;MS;Tupelo;TUP
+3932;medium_airport;Tucson International Airport / Morris Air National Guard Base;US;AZ;Tucson;TUS
+3933;medium_airport;Cherry Capital Airport;US;MI;Traverse City;TVC
+21232;small_airport;Thief River Falls Regional Airport;US;MN;Thief River Falls;TVF
+21233;small_airport;Thomasville Regional Airport;US;GA;Thomasville;TVI
+3934;medium_airport;Lake Tahoe Airport;US;CA;South Lake Tahoe;TVL
+3935;medium_airport;Joslin Field Magic Valley Regional Airport;US;ID;Twin Falls;TWF
+3936;medium_airport;Texarkana Regional Airport (Webb Field);US;AR;Texarkana;TXK
+21239;small_airport;Taylor Airport;US;AZ;Taylor;TYZ
+3937;medium_airport;Tyler Pounds Regional Airport;US;TX;Tyler;TYR
+3938;medium_airport;McGhee Tyson Airport;US;TN;Alcoa;TYS
+21250;small_airport;Bullfrog Basin Airport;US;UT;Bullfrog;BFG
+21256;small_airport;J. Randy McKnight Nephi Municipal Airport;US;UT;Nephi;NPH
+21259;small_airport;Green River Municipal Airport;US;UT;Green River;RVR
+21264;small_airport;Panguitch Municipal Airport;US;UT;Panguitch;PNU
+21271;small_airport;Cascade Airport;US;ID;Cascade;ICS
+21282;small_airport;Columbus Lowndes County Airport;US;MS;Columbus;UBS
+21285;small_airport;Everett-Stewart Regional Airport;US;TN;Union City;UCY
+21286;small_airport;Bermuda Dunes Airport;US;CA;Bermuda Dunes;UDD
+21288;small_airport;Waukesha County Airport;US;WI;Waukesha;UES
+21289;small_airport;Waukegan National Airport;US;IL;Chicago/Waukegan;UGN
+21290;small_airport;Quillayute Airport;US;WA;Quillayute;UIL
+3940;medium_airport;Quincy Regional Baldwin Field;US;IL;Quincy;UIN
+21291;small_airport;Wilkes County Airport;US;NC;North Wilkesboro;IKB
+3941;medium_airport;Ukiah Municipal Airport;US;CA;Ukiah;UKI
+21293;small_airport;Quakertown Airport;US;PA;Quakertown;UKT
+21294;small_airport;New Ulm Municipal Airport;US;MN;New Ulm;ULM
+21297;small_airport;Ohio University Airport;US;OH;Albany;ATO
+21299;small_airport;Dodge County Airport;US;WI;Juneau;UNU
+21300;medium_airport;University Park Airport;US;PA;State College;SCE
+21301;small_airport;Franklin County Airport;US;TN;Sewanee;UOS
+3942;medium_airport;University Oxford Airport;US;MS;Oxford;UOX
+21303;small_airport;Tunica Municipal Airport;US;MS;Tunica;UTM
+21304;medium_airport;Huntsville Regional Airport;US;TX;Huntsville;HTV
+21305;small_airport;Newport State Airport;US;RI;Newport;NPT
+21307;small_airport;Garner Field;US;TX;Uvalde;UVA
+21310;small_airport;Rock Hill - York County Airport;US;SC;Rock Hill;RKH
+3943;medium_airport;Moody Air Force Base;US;GA;Valdosta;VAD
+21311;small_airport;South Jersey Regional Airport;US;NJ;Lumberton;LLY
+3944;medium_airport;Vandenberg Space Force Base;US;CA;Lompoc;VBG
+3945;medium_airport;Victoria Regional Airport;US;TX;Victoria;VCT
+21315;small_airport;Southern California Logistics Airport;US;CA;Victorville;VCV
+21317;small_airport;Vidalia Regional Airport;US;GA;Vidalia;VDI
+21318;medium_airport;Vernal Regional Airport;US;UT;Vernal;VEL
+21321;medium_airport;North Las Vegas Metropolitan International Airport;US;NV;Las Vegas;VGT
+21322;small_airport;Culberson County Airport;US;TX;Van Horn;VHN
+21323;small_airport;Rolla National Airport;US;MO;Rolla/Vichy;VIH
+21325;medium_airport;Visalia Municipal Airport;US;CA;Visalia;VIS
+21326;small_airport;Virginia Highlands Airport;US;VA;Abingdon;VJI
+21327;small_airport;Vicksburg Municipal Airport;US;MS;Vicksburg;VKS
+21328;small_airport;Vandalia Municipal Airport;US;IL;Vandalia;VLA
+3946;medium_airport;Valdosta Regional Airport;US;GA;Valdosta;VLD
+21331;small_airport;Venice Municipal Airport;US;FL;Venice;VNC
+21333;medium_airport;Van Nuys Airport;US;CA;Van Nuys;VNY
+3947;medium_airport;Volk Field;US;WI;Camp Douglas;VOK
+3948;medium_airport;Destin-Fort Walton Beach Airport;US;FL;Valparaiso;VPS
+3949;medium_airport;Porter County Municipal Airport;US;IN;Valparaiso;VPZ
+21335;medium_airport;Cecil Airport;US;FL;Jacksonville;VQQ
+3950;medium_airport;Vero Beach Regional Airport;US;FL;Vero Beach;VRB
+21336;small_airport;Hartness State Airport;US;VT;North Springfield;VSF
+21339;medium_airport;Miller Field;US;NE;Valentine;VTN
+21344;small_airport;Illinois Valley Regional Airport Walter A Duncan Field;US;IL;Peru;VYS
+21347;small_airport;Gettysburg Regional Airport;US;PA;Gettysburg;GTY
+21349;small_airport;Sequim Valley Airport;US;WA;Sequim;SQV
+21367;small_airport;Grant County Airport;US;WV;Petersburg;PGC
+21368;small_airport;Wallops Flight Facility Airport;US;VA;Wallops Island;WAL
+21369;small_airport;Greene County Airport;US;PA;Waynesburg;WAY
+21370;small_airport;Wilkes Barre Wyoming Valley Airport;US;PA;Wilkes-Barre;WBW
+21371;small_airport;Enid Woodring Regional Airport;US;OK;Enid;WDG
+21372;small_airport;Barrow County Airport;US;GA;Winder;WDR
+21374;small_airport;Whiteman Airport;US;CA;Pacoima;WHP
+21375;medium_airport;General William J Fox Airfield;US;CA;Lancaster;WJF
+21377;small_airport;Strother Field;US;KS;Winfield / Arkansas City;WLD
+21378;small_airport;Willows Glenn County Airport;US;CA;Willows;WLW
+21379;medium_airport;Winnemucca Municipal Airport;US;NV;Winnemucca;WMC
+3951;medium_airport;Robins Air Force Base;US;GA;Warner Robins;WRB
+3952;medium_airport;Mc Guire Air Force Base;US;NJ;Wrightstown;WRI
+3953;medium_airport;Worland Municipal Airport;US;WY;Worland;WRL
+21382;small_airport;Westerly State Airport;US;RI;Westerly;WST
+21384;small_airport;Watsonville Municipal Airport;US;CA;Watsonville;WVI
+21385;small_airport;Waterville Robert Lafleur Airport;US;ME;Waterville;WVL
+3954;medium_airport;Cape May County Airport;US;NJ;Wildwood;WWD
+21386;medium_airport;West Woodward Airport;US;OK;Woodward;WWR
+3955;medium_airport;Yellowstone Airport;US;MT;West Yellowstone;WYS
+21397;small_airport;Tampa North Aero Park Airport;US;FL;Tampa;KYO
+21410;medium_airport;Northwest Arkansas National Airport;US;AR;Fayetteville/Springdale/Rogers;XNA
+21418;small_airport;West Branch Community Airport;US;MI;West Branch;WBK
+3957;medium_airport;Willow Run Airport;US;MI;Detroit;YIP
+3958;medium_airport;Yakima Air Terminal McAllister Field;US;WA;Yakima;YKM
+3959;medium_airport;Chan Gurney Municipal Airport;US;SD;Yankton;YKN
+3960;medium_airport;Youngstown Warren Regional Airport;US;OH;Youngstown/Warren;YNG
+21442;small_airport;Zephyrhills Municipal Airport;US;FL;Zephyrhills;ZPH
+3967;medium_airport;Zanesville Municipal Airport;US;OH;Zanesville;ZZV
+21739;small_airport;Drummond Airport;US;MT;Drummond;DRU
+21796;small_airport;Ware Airport;US;MA;Ware;UWA
+21948;small_airport;Loring International Airport;US;ME;Limestone;LIZ
+313978;small_airport;National Wildlife Refuge Airport;US;TX;Matagorda Island;MGI
+22013;small_airport;Hooker County Airport;US;NE;Mullen;MHN
+22304;small_airport;Moses Point Airport;US;AK;Elim;MOS
+22495;small_airport;Metro Field;US;AK;Fairbanks;MTX
+321994;small_airport;Monticello Airport;US;UT;Monticello;MXC
+22655;small_airport;May Creek Airport;US;AK;May Creek;MYK
+22954;small_airport;Browns Airport;US;NE;Weeping Water;EPG
+23301;small_airport;Industrial Airpark;US;NM;Hobbs;HBB
+23322;small_airport;Yucca Airstrip;US;NV;Mercury;UCC
+23485;small_airport;Kneeland Airport;US;CA;Kneeland;NLN
+23500;small_airport;Benton Field;US;CA;Redding;BZF
+13527;small_airport;Old Harbor Airport;US;AK;Old Harbor;OLH
+23950;small_airport;Port Lions Airport;US;AK;Port Lions;ORI
+16190;small_airport;Atka Airport;US;AK;Atka;AKB
+8178;small_airport;Port Moller Airport;US;AK;Cold Bay;PML
+5336;medium_airport;"Warren ""Bud"" Woods Palmer Municipal Airport";US;AK;Palmer;PAQ
+5337;medium_airport;Barter Island Long Range Radar Station Airport;US;AK;Barter Island;BTI
+5338;medium_airport;Bethel Airport;US;AK;Bethel;BET
+16501;small_airport;Beluga Airport;US;AK;Beluga;BVU
+5339;medium_airport;Allen Army Airfield;US;AK;Delta Junction Ft Greely;BIG
+5340;medium_airport;Buckland Airport;US;AK;Buckland;BKC
+5341;small_airport;Big Mountain Airport;US;AK;Big Mountain;BMX
+5342;medium_airport;Wiley Post Will Rogers Memorial Airport;US;AK;Utqiaġvik;BRW
+5343;medium_airport;Bettles Airport;US;AK;Bettles;BTT
+5345;medium_airport;Cold Bay Airport;US;AK;Cold Bay;CDB
+16709;small_airport;Central Airport;US;AK;Central;CEM
+16714;small_airport;Chalkyitsik Airport;US;AK;Chalkyitsik;CIK
+16711;small_airport;Chefornak Airport;US;AK;Chefornak;CYF
+5347;medium_airport;Scammon Bay Airport;US;AK;Scammon Bay;SCM
+16954;small_airport;Circle City (New) Airport;US;AK;Circle;IRC
+5348;medium_airport;Merle K (Mudhole) Smith Airport;US;AK;Cordova;CDV
+17056;small_airport;Coldfoot Airport;US;AK;Coldfoot;CXF
+17058;small_airport;Yakataga Airport;US;AK;Yakataga;CYT
+5349;medium_airport;Cape Romanzof LRRS Airport;US;AK;Cape Romanzof;CZF
+5350;medium_airport;Deering Airport;US;AK;Deering;DRG
+17151;small_airport;Red Dog Airport;US;AK;Red Dog;RDB
+16092;medium_airport;Adak Airport;US;AK;Adak;ADK
+5351;medium_airport;Dillingham Airport;US;AK;Dillingham;DLG
+5352;medium_airport;Marshall Don Hunter Sr Airport;US;AK;Marshall;MLL
+5353;medium_airport;Kodiak Airport;US;AK;Kodiak;ADQ
+5354;medium_airport;Tom Madsen (Dutch Harbor) Airport;US;AK;Unalaska;DUT
+17155;small_airport;Kongiganak Airport;US;AK;Kongiganak;KKH
+5355;medium_airport;Elmendorf Air Force Base;US;AK;Anchorage;EDF
+17176;small_airport;Eek Airport;US;AK;Eek;EEK
+17174;small_airport;Eagle Airport;US;AK;Eagle;EAA
+5356;medium_airport;Cape Newenham LRRS Airport;US;AK;Cape Newenham;EHM
+5357;medium_airport;Eielson Air Force Base;US;AK;Fairbanks;EIL
+5358;medium_airport;Emmonak Airport;US;AK;Emmonak;EMK
+5359;medium_airport;Kenai Municipal Airport;US;AK;Kenai;ENA
+5360;large_airport;Fairbanks International Airport;US;AK;Fairbanks;FAI
+5361;medium_airport;Ladd Army Airfield;US;AK;Fairbanks;FBK
+5363;medium_airport;Ambler Airport;US;AK;Ambler;ABL
+5364;small_airport;Bryant Army Airfield;US;AK;Fort Richardson;FRN
+17469;small_airport;Nikolai Airport;US;AK;Nikolai;NIB
+17471;small_airport;Farewell Airport;US;AK;Farewell;FWL
+5365;medium_airport;Edward G. Pitka Sr Airport;US;AK;Galena;GAL
+17575;small_airport;Galbraith Lake Airport;US;AK;Galbraith Lake;GBH
+17595;small_airport;Kwigillingok Airport;US;AK;Kwigillingok;KWK
+5366;small_airport;Shungnak Airport;US;AK;Shungnak;SHG
+5367;medium_airport;Gulkana Airport;US;AK;Gulkana;GKN
+22694;small_airport;Golovin Airport;US;AK;Golovin;GLV
+5368;medium_airport;Gambell Airport;US;AK;Gambell;GAM
+16499;small_airport;Big Lake Airport;US;AK;Big Lake;BGQ
+5369;medium_airport;Gustavus Airport;US;AK;Gustavus;GST
+17885;small_airport;Nightmute Airport;US;AK;Nightmute;NME
+24574;small_airport;Skagway Airport;US;AK;Skagway;SGY
+17619;medium_airport;Holy Cross Airport;US;AK;Holy Cross;HCR
+5370;medium_airport;Huslia Airport;US;AK;Huslia;HSL
+5372;medium_airport;Haines Airport;US;AK;Haines;HNS
+5373;medium_airport;Homer Airport;US;AK;Homer;HOM
+5374;medium_airport;Hooper Bay Airport;US;AK;Hooper Bay;HPB
+17656;small_airport;Hughes Airport;US;AK;Hughes;HUS
+24575;small_airport;Shageluk Airport;US;AK;Shageluk;SHX
+17884;small_airport;Igiugig Airport;US;AK;Igiugig;IGG
+5375;medium_airport;Egegik Airport;US;AK;Egegik;EGX
+5376;medium_airport;Bob Baker Memorial Airport;US;AK;Kiana;IAN
+5377;medium_airport;Iliamna Airport;US;AK;Iliamna;ILI
+5378;medium_airport;Indian Mountain LRRS Airport;US;AK;Utopia Creek;UTO
+18169;small_airport;Denali National Park Airport;US;AK;Denali Park;MCL
+18251;small_airport;Wales Airport;US;AK;Wales;WAA
+5379;medium_airport;Juneau International Airport;US;AK;Juneau;JNU
+18300;small_airport;Koliganek Airport;US;AK;Koliganek;KGK
+19631;small_airport;Kodiak Municipal Airport;US;AK;Kodiak;KDK
+19891;small_airport;False Pass Airport;US;AK;False Pass;KFP
+16192;small_airport;Akhiok Airport;US;AK;Akhiok;AKK
+17979;small_airport;Kipnuk Airport;US;AK;Kipnuk;KPN
+20272;small_airport;Koyuk Alfred Adams Airport;US;AK;Koyuk;KKA
+21568;small_airport;Kulik Lake Airport;US;AK;Kulik Lake;LKK
+5380;medium_airport;King Salmon Airport;US;AK;King Salmon;AKN
+17980;small_airport;Nikolski Air Station;US;AK;Nikolski;IKO
+5381;medium_airport;Anaktuvuk Pass Airport;US;AK;Anaktuvuk Pass;AKP
+5382;medium_airport;Ketchikan International Airport;US;AK;Ketchikan;KTN
+25239;small_airport;Ugnu-Kuparuk Airport;US;AK;Kuparuk;UUK
+19274;small_airport;Kaltag Airport;US;AK;Kaltag;KAL
+5383;medium_airport;Klawock Airport;US;AK;Klawock;KLW
+21434;small_airport;Karluk Airport;US;AK;Karluk;KYK
+9282;small_airport;Larsen Bay Airport;US;AK;Larsen Bay;KLN
+20333;small_airport;Kalskag Airport;US;AK;Kalskag;KLG
+25694;small_airport;Chandalar Lake Airport;US;AK;Chandalar Lake;WCR
+5385;medium_airport;Cape Lisburne LRRS Airport;US;AK;Cape Lisburne;LUR
+21843;small_airport;Manokotak Airport;US;AK;Manokotak;KMO
+21844;medium_airport;McGrath Airport;US;AK;McGrath;MCG
+21936;small_airport;Middleton Island Airport;US;AK;Middleton Island;MDO
+5371;small_airport;Minchumina Airport;US;AK;Minchumina;LMA
+24578;small_airport;St Michael Airport;US;AK;St Michael;SMK
+22107;small_airport;Manley Hot Springs Airport;US;AK;Manley Hot Springs;MLY
+22305;small_airport;Mountain Village Airport;US;AK;Mountain Village;MOU
+5386;medium_airport;Merrill Field;US;AK;Anchorage;MRI
+7976;small_airport;Mc Carthy Airport;US;AK;Mccarthy;MXY
+5387;medium_airport;Mekoryuk Airport;US;AK;Mekoryuk;MYU
+25894;small_airport;Napakiak Airport;US;AK;Napakiak;WNA
+5388;large_airport;Ted Stevens Anchorage International Airport;US;AK;Anchorage;ANC
+16291;medium_airport;Aniak Airport;US;AK;Aniak;ANI
+5390;medium_airport;Nenana Municipal Airport;US;AK;Nenana;ENN
+12571;small_airport;Nondalton Airport;US;AK;Nondalton;NNL
+5391;medium_airport;Annette Island Airport;US;AK;Metlakatla;ANN
+5417;small_airport;Nulato Airport;US;AK;Nulato;NUL
+5392;medium_airport;Anvik Airport;US;AK;Anvik;ANV
+20664;small_airport;New Stuyahok Airport;US;AK;New Stuyahok;KNW
+23513;small_airport;Kobuk Airport;US;AK;Kobuk;OBU
+16073;small_airport;Portage Creek Airport;US;AK;Portage Creek;PCA
+17654;small_airport;Hoonah Airport;US;AK;Hoonah;HNH
+5393;medium_airport;Nome Airport;US;AK;Nome;OME
+24199;small_airport;Toksook Bay Airport;US;AK;Toksook Bay;OOK
+5394;medium_airport;Northway Airport;US;AK;Northway;ORT
+5395;medium_airport;Ralph Wien Memorial Airport;US;AK;Kotzebue;OTZ
+23953;small_airport;Nelson Lagoon Airport;US;AK;Nelson Lagoon;NLG
+5396;medium_airport;St George Airport;US;AK;St George;STG
+5397;medium_airport;Port Clarence Coast Guard Station;US;AK;Port Clarence;KPC
+24081;small_airport;Perryville Airport;US;AK;Perryville;KPV
+5398;medium_airport;Petersburg James A Johnson Airport;US;AK;Petersburg;PSG
+5399;medium_airport;Port Heiden Airport;US;AK;Port Heiden;PTH
+24205;small_airport;Napaskiak Airport;US;AK;Napaskiak;PKA
+5400;medium_airport;Platinum Airport;US;AK;Platinum;PTU
+24197;small_airport;Pilot Point Airport;US;AK;Pilot Point;PIP
+24089;small_airport;Point Hope Airport;US;AK;Point Hope;PHO
+24202;small_airport;Prospect Creek Airport;US;AK;Prospect Creek;PPC
+16293;small_airport;Quinhagak Airport;US;AK;Quinhagak;KWN
+5401;medium_airport;Nuiqsut Airport;US;AK;Nuiqsut;NUI
+5402;medium_airport;Arctic Village Airport;US;AK;Arctic Village;ARC
+24365;small_airport;Russian Mission Airport;US;AK;Russian Mission;RSH
+5403;medium_airport;Ruby Airport;US;AK;Ruby;RBY
+5404;medium_airport;Savoonga Airport;US;AK;Savoonga;SVA
+5405;medium_airport;Deadhorse Airport;US;AK;Deadhorse;SCC
+5406;medium_airport;Sand Point Airport;US;AK;Sand Point;SDP
+5407;medium_airport;Shishmaref Airport;US;AK;Shishmaref;SHH
+5408;medium_airport;Sitka Rocky Gutierrez Airport;US;AK;Sitka;SIT
+5384;small_airport;Selawik Airport;US;AK;Selawik;WLK
+24577;small_airport;Sleetmute Airport;US;AK;Sleetmute;SLQ
+5409;medium_airport;St Mary's Airport;US;AK;St Mary's;KSM
+5410;medium_airport;St Paul Island Airport;US;AK;St Paul Island;SNP
+24675;small_airport;Seldovia Airport;US;AK;Seldovia;SOV
+24579;small_airport;Sheep Mountain Airport;US;AK;Sheep Mountain;SMU
+25241;small_airport;Summit Airport;US;AK;Cantwell;UMM
+5411;medium_airport;Sparrevohn LRRS Airport;US;AK;Sparrevohn;SVW
+24576;small_airport;Skwentna Airport;US;AK;Skwentna;SKW
+5412;medium_airport;Soldotna Airport;US;AK;Soldotna;SXQ
+5413;medium_airport;Eareckson Air Station;US;AK;Shemya;SYA
+24807;small_airport;Ralph M Calhoun Memorial Airport;US;AK;Tanana;TAL
+25014;small_airport;Tin City Long Range Radar Station Airport;US;AK;Tin City;TNC
+24908;small_airport;Teller Airport;US;AK;Teller;TLA
+5414;medium_airport;Togiak Airport;US;AK;Togiak Village;TOG
+24910;medium_airport;Talkeetna Airport;US;AK;Talkeetna;TKA
+5415;medium_airport;Tatalina LRRS Airport;US;AK;Takotna;TLJ
+5416;medium_airport;Atqasuk Edward Burnell Sr Memorial Airport;US;AK;Atqasuk;ATK
+16387;small_airport;Alakanuk Airport;US;AK;Alakanuk;AUK
+25242;small_airport;Umiat Airport;US;AK;Umiat;UMT
+5389;small_airport;Unalakleet Airport;US;AK;Unalakleet;UNK
+25331;small_airport;Willow Airport;US;AK;Willow;WOW
+308030;small_airport;Akutan Airport;US;AK;Akutan;KQA
+25432;small_airport;Chevak Airport;US;AK;Chevak;VAK
+21313;small_airport;King Cove Airport;US;AK;King Cove;KVC
+5418;medium_airport;Valdez Pioneer Field;US;AK;Valdez;VDZ
+25434;small_airport;Venetie Airport;US;AK;Venetie;VEE
+5419;medium_airport;Kivalina Airport;US;AK;Kivalina;KVL
+25693;small_airport;Beaver Airport;US;AK;Beaver;WBQ
+5420;medium_airport;Seward Airport;US;AK;Seward;SWD
+5421;medium_airport;Wrangell Airport;US;AK;Wrangell;WRG
+5422;medium_airport;Wainwright Airport;US;AK;Wainwright;AIN
+25794;small_airport;White Mountain Airport;US;AK;White Mountain;WMO
+5423;medium_airport;Noatak Airport;US;AK;Noatak;WTK
+5424;medium_airport;Wasilla Airport;US;AK;Wasilla;WWA
+26343;medium_airport;Yakutat Airport;US;AK;Yakutat;YAK
+16191;small_airport;Akiak Airport;US;AK;Akiak;AKI
+13176;small_airport;Allakaket Airport;US;AK;Allakaket;AET
+24082;small_airport;Pacific City State Airport;US;OR;Pacific City;PFC
+16509;small_airport;Chenega Bay Airport;US;AK;Chenega;NCN
+16820;small_airport;Clarks Point Airport;US;AK;Clarks Point;CLP
+17177;small_airport;Elim Airport;US;AK;Elim;ELI
+26344;small_airport;Kasigluk Airport;US;AK;Kasigluk;KUK
+15766;small_airport;Kokhanok Airport;US;AK;Kokhanok;KNK
+9286;small_airport;Kotlik Airport;US;AK;Kotlik;KOT
+21224;small_airport;Brevig Mission Airport;US;AK;Brevig Mission;KTS
+21435;small_airport;Koyukuk Airport;US;AK;Koyukuk;KYU
+21383;small_airport;Kwethluk Airport;US;AK;Kwethluk;KWT
+17087;small_airport;Robert (Bob) Curtis Memorial Airport;US;AK;Noorvik;ORV
+9334;small_airport;Shaktoolik Airport;US;AK;Shaktoolik;SKK
+13322;small_airport;Tok Junction Airport;US;AK;Tok;TKJ
+25982;small_airport;South Naknek Number 2 Airport;US;AK;South Naknek;WSN
+5429;medium_airport;Fort Yukon Airport;US;AK;Fort Yukon;FYU
+24085;small_airport;Port Graham Airport;US;AK;Port Graham;PGM
+5441;medium_airport;Barking Sands Airport;US;HI;Kekaha;BKH
+5442;small_airport;Kawaihapai Airfield;US;HI;Mokuleia;HDH
+5443;small_airport;Wheeler Army Airfield;US;HI;Wahiawa;HHI
+5444;medium_airport;Hana Airport;US;HI;Hana;HNM
+335883;medium_airport;Hickam Air Force Base;US;HI;Honolulu;HIK
+5446;medium_airport;Kapalua Airport;US;HI;Lahaina;JHM
+5447;medium_airport;Kalaeloa Airport;US;HI;Kapolei;JRF
+5448;medium_airport;Ellison Onizuka Kona International Airport at Keahole;US;HI;Kailua-Kona;KOA
+5449;medium_airport;Lihue Airport;US;HI;Lihue;LIH
+21732;small_airport;Kalaupapa Airport;US;HI;Kalaupapa;LUP
+5450;medium_airport;Molokai Airport;US;HI;Kaunakakai;MKK
+5451;medium_airport;Waimea Kohala Airport;US;HI;Waimea (Kamuela);MUE
+5452;medium_airport;Kaneohe Bay MCAS (Marion E. Carl Field) Airport;US;HI;Kaneohe;NGF
+5453;large_airport;Daniel K Inouye International Airport;US;HI;Honolulu;HNL
+5454;medium_airport;Lanai Airport;US;HI;Lanai City;LNY
+5455;medium_airport;Kahului International Airport;US;HI;Kahului;OGG
+24070;small_airport;Port Allen Airport;US;HI;Hanapepe;PAK
+5456;small_airport;Bradshaw Army Airfield;US;HI;Waimea (Kamuela);BSF
+5457;medium_airport;Hilo International Airport;US;HI;Hilo;ITO
+5458;small_airport;Upolu Airport;US;HI;Hawi;UPP
+5495;medium_airport;Point Lay LRRS Airport;US;AK;Point Lay;PIZ
+24340;small_airport;Red Devil Airport;US;AK;Red Devil;RDV
+24363;small_airport;Rampart Airport;US;AK;Rampart;RMP
+24373;small_airport;Lopez Island Airport;US;WA;Lopez;LPS
+24397;small_airport;Salton Sea Airport;US;CA;Salton City;SAS
+24676;small_airport;Stony River 2 Airport;US;AK;Stony River;SRV
+24677;small_airport;Stevens Village Airport;US;AK;Stevens Village;SVS
+24678;small_airport;Nunam Iqua Airport;US;AK;Nunam Iqua;SXP
+24681;small_airport;Stanton Airfield;US;MN;Dennison;SYN
+24682;small_airport;Santa Cruz Island Airport;US;CA;Santa Cruz Island;SZN
+24683;small_airport;Santa Paula Airport;US;CA;Santa Paula;SZP
+24808;small_airport;Takotna Airport;US;AK;Takotna;TCT
+24914;small_airport;Tuluksak Airport;US;AK;Tuluksak;TLT
+25016;small_airport;Port Alsworth Airport;US;AK;Port Alsworth;PTA
+25116;small_airport;Tanacross Airport;US;AK;Tanacross;TSG
+25214;small_airport;Tyonek Airport;US;AK;Tyonek;TYE
+25216;small_airport;Dubois Municipal Airport;US;ID;Dubois;DBS
+25240;small_airport;Ugashik Bay Airport;US;AK;Pilot Point;UGB
+324440;medium_airport;Williston Basin International Airport;US;ND;Williston;XWA
+18358;small_airport;Spirit Lake Municipal Airport;US;IA;Okoboji;RTL
+506827;small_airport;Mertarvik Airport;US;AK;Mertarvik;WWT
+25268;small_airport;Monument Valley Airport;US;UT;Oljato-Monument Valley;GMV
+25606;small_airport;Roche Harbor Airport;US;WA;Roche Harbor;RCE
+25692;small_airport;Stebbins Airport;US;AK;Stebbins;WBB
+25695;small_airport;Parker County Airport;US;TX;Weatherford;WEA
+25802;small_airport;Decatur Shores Airport;US;WA;Decatur;DTR
+25981;small_airport;Wiseman Airport;US;AK;Wiseman;WSM
+26048;small_airport;Glendale Fokker Field;US;WV;Glendale;GWV
+26323;small_airport;Waukon Municipal Airport;US;IA;Waukon;UKN
+26345;small_airport;Akiachak Airport;US;AK;Akiachak;KKI
+26354;small_airport;Bear Creek 3 Airport;US;AK;Bear Creek;BCC
+26365;small_airport;Birch Creek Airport;US;AK;Birch Creek;KBC
+26367;small_airport;Copper Center 2 Airport;US;AK;Copper Center;CZC
+26369;small_airport;Nyac Airport;US;AK;Nyac;ZNC
